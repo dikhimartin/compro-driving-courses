@@ -273,16 +273,15 @@
             </div>
         </div>
 
-
 		<!-- What peolpe are saying style 2 -->
 		<div class="section-full overlay-primary-dark bg-img-fix content-inner-1" id="clients" style="background-image:url(images/background/bg2.jpg);">
 			<div class="container">
 				<div class="section-head text-center head-style-2 text-white wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-					<h2 class="title">What Peolpe Are Saying</h2>
+					<h2 class="title">Kata Mereka</h2>
 					<div class="dlab-separator-outer">
 						<div class="dlab-separator bg-white"></div>
 					</div>
-					<p>There are many variations of passages of Lorem Ipsum typesetting industry has been the industry's standard dummy text ever since the been when an unknown printer.</p>
+					<p>Pendapat mereka yang sudah mengikuti pelatihan menjadi bukti dari kami tentang pelayanan yang diberikan kepada anda nantinya.</p>
 				</div>
 				<div class="section-content">
 					<div class="testimonial-one owl-carousel owl-theme owl-btn-center-lr car-service-client">
@@ -317,124 +316,6 @@
 				</div>
 			</div>
 		</div>
-		<!-- What peolpe are saying style 2 END -->
-		<!-- Latest Blog -->
-		<div class="section-full bg-gray content-inner-1" id="blog">
-            <div class="container">
-				<div class="section-head text-center head-style-2">
-					<h2 class="title">Recent Blog</h2>
-					<div class="dlab-separator-outer">
-						<div class="dlab-separator bg-primary"></div>
-					</div>
-					<p>There are many variations of passages of Lorem Ipsum typesetting industry has been the industry's standard dummy text ever since the been when an unknown printer.</p>
-				</div>
-                <div class="section-content owl-none">
-                    <div class="blog-carousel owl-carousel">
-                        <div class="item">
-							<div class="blog-post post-style-1 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-								<div class="dlab-post-media dlab-img-effect"> 
-									<a href="#">
-										<img src="images/blog/latest-blog/pic1.jpg" alt="">
-									</a> 
-								</div>
-								<div class="dlab-post-info">
-									<div class="dlab-post-meta">
-										<ul>
-											<li class="post-date"> <i class="fas fa-calendar"></i><span> July 26, 2022</span> </li>
-											<li class="post-author"><i class="fas fa-user"></i>By <a href="#">Stacy Poe</a> </li>
-										</ul>
-									</div>
-									<div class="dlab-post-title ">
-										<h3 class="post-title"><a href="#">Facts That You Should Know About Car Service.</a></h3>
-									</div>
-								</div>
-							</div>
-						</div>
-						 <div class="item">
-							<div class="blog-post post-style-1 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-								<div class="dlab-post-media dlab-img-effect"> 
-									<a href="#">
-										<img src="images/blog/latest-blog/pic2.jpg" alt="">
-									</a> 
-								</div>
-								<div class="dlab-post-info">
-									<div class="dlab-post-meta">
-										<ul>
-											<li class="post-date"> <i class="fas fa-calendar"></i><span> July 26, 2022</span> </li>
-											<li class="post-author"><i class="fas fa-user"></i>By <a href="#">Stacy Poe</a> </li>
-										</ul>
-									</div>
-									<div class="dlab-post-title ">
-										<h3 class="post-title"><a href="#">Here’s What No One Tells You About Car Service.</a></h3>
-									</div>
-								</div>
-							</div>
-						</div>
-						 <div class="item">
-							<div class="blog-post post-style-1 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
-								<div class="dlab-post-media dlab-img-effect"> 
-									<a href="#">
-										<img src="images/blog/latest-blog/pic3.jpg" alt="">
-									</a> 
-								</div>
-								<div class="dlab-post-info">
-									<div class="dlab-post-meta">
-										<ul>
-											<li class="post-date"> <i class="fas fa-calendar"></i><span> July 26, 2022</span> </li>
-											<li class="post-author"><i class="fas fa-user"></i>By <a href="#">Stacy Poe</a> </li>
-										</ul>
-									</div>
-									<div class="dlab-post-title ">
-										<h3 class="post-title"><a href="#">The Truth About Car Service Is About To Be Revealed.</a></h3>
-									</div>
-								</div>
-							</div>
-						</div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Latest Blog END -->
-		 <!-- Client logo -->
-        <div class="section-full dlab-we-find bg-img-fix p-t50 p-b50 ">
-            <div class="container">
-                <div class="section-content">
-                    <div class="client-logo-carousel owl-carousel mfp-gallery gallery owl-btn-center-lr">
-                        <div class="item">
-                            <div class="ow-client-logo wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-                                <div class="client-logo"><a href="#"><img src="images/client-logo/logo1.jpg" alt=""></a></div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="ow-client-logo wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-                                <div class="client-logo"> <a href="#"><img src="images/client-logo/logo2.jpg" alt=""></a> </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="ow-client-logo wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
-                                <div class="client-logo"> <a href="#"><img src="images/client-logo/logo1.jpg" alt=""></a> </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="ow-client-logo wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.8s">
-                                <div class="client-logo"> <a href="#"><img src="images/client-logo/logo3.jpg" alt=""></a> </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="ow-client-logo wow fadeInUp" data-wow-duration="2s" data-wow-delay="1.0s">
-                                <div class="client-logo"> <a href="#"><img src="images/client-logo/logo4.jpg" alt=""></a> </div>
-                            </div>
-                        </div>
-                        <div class="item">
-                            <div class="ow-client-logo wow fadeInUp" data-wow-duration="2s" data-wow-delay="1.2s">
-                                <div class="client-logo"> <a href="#"><img src="images/client-logo/logo3.jpg" alt=""></a> </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Client logo END -->
     </div>
     <!-- Content END-->
 	 <!-- Footer -->

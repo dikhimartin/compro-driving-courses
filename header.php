@@ -37,7 +37,6 @@
                             <ul class="sub-menu">
                                 <li><a href="javascript:void(0)">Perusahaan</a></li>
                                 <li><a href="javascript:void(0)">Team Kami</a></li>
-                                <li><a href="javascript:void(0)">Testimonial</a></li>
                             </ul>
                         </li>
                         <li> <a href="javascript:void(0)" class="scroll nav-link">Paket Kursus</a></li>
