@@ -1,43 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<!-- META -->
-	<meta charset="utf-8">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<meta name="keywords" content="" />
-	<meta name="author" content="" />
-	<meta name="robots" content="" />
-	<meta name="description" content="AutoCare is well designed creating websites of automotive repair shops, stores with spare parts and accessories for car repairs, car washes, car danting and panting, service stations, car showrooms painting, major auto centers and other sites related to cars and car services." />
-	<meta property="og:title" content="Auto Care - Car Services Template" />
-	<meta property="og:description" content="AutoCare is well designed creating websites of automotive repair shops, stores with spare parts and accessories for car repairs, car washes, car danting and panting, service stations, car showrooms painting, major auto centers and other sites related to cars and car services." />
-	<meta property="og:image" content="http://autocare.dexignlab.com/xhtml/social-image.png" />
-	<meta name="format-detection" content="telephone=no">
-
-	<!-- FAVICONS ICON -->
-	<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
-	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
-	
-	<!-- PAGE TITLE HERE -->
-	<title>Bina Driving Courses</title>
-	
-	<!-- MOBILE SPECIFIC -->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-
-	<!--[if lt IE 9]>
-		<script src="js/html5shiv.min.js"></script>
-		<script src="js/respond.min.js"></script>
-	<![endif]-->
-		
-	<!-- STYLESHEETS -->
-	<link rel="stylesheet" type="text/css" href="css/style.min.css">
-	<link rel="stylesheet" type="text/css" href="css/templete.min.css">
-	<link rel="stylesheet" type="text/css" href="css/swiper.css">
-	<link class="skin"  rel="stylesheet" type="text/css" href="css/skin/skin-1.css">
-	<link class="skin"  rel="stylesheet" type="text/css" href="plugins/rangeslider/rangeslider.css">
-	
-</head>
+<?php include "head.php"?>
 <body id="bg">
-    <!-- <div id="loading-area" class="loader1"></div> -->
 <div class="page-wraper creative-wraper-two">
     <!-- Header -->
     <?php include "header.php"?>
@@ -274,76 +238,64 @@
         </div>
 
 		<!-- What peolpe are saying style 2 -->
-		<div class="section-full overlay-primary-dark bg-img-fix content-inner-1" id="clients" style="background-image:url(images/background/bg2.jpg);">
+		<div class="section-full  bg-gray bg-img-fix content-inner-1 testimonials">
 			<div class="container">
-				<div class="section-head text-center head-style-2 text-white wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
-					<h2 class="title">Kata Mereka</h2>
-					<div class="dlab-separator-outer">
-						<div class="dlab-separator bg-white"></div>
-					</div>
+				<div class="section-head text-center">
+					<h2 class="text-uppercase">Kata Mereka</h2>
+					<div class="dlab-separator bg-primary"></div>
 					<p>Pendapat mereka yang sudah mengikuti pelatihan menjadi bukti dari kami tentang pelayanan yang diberikan kepada anda nantinya.</p>
 				</div>
 				<div class="section-content">
-					<div class="testimonial-one owl-carousel owl-theme owl-btn-center-lr car-service-client">
+					<div class="testimonial-five owl-carousel owl-dots-none owl-theme owl-dots-white-full owl-loaded owl-drag owl-btn-3 owl-btn-center-lr">
 						<div class="item">
-							<div class="testimonial-1 testimonial-bg wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
-								<div class="testimonial-pic quote-left radius shadow"><img src="images/testimonials/pic1.jpg" width="100" height="100" alt=""></div>
-								<div class="testimonial-text">
-									<p>There are many variations of passages of Lorem Ipsum typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets conta</p>
+							<div class="testimonial-6">
+								<div class="testimonial-text bg-white quote-left quote-right">
+									<p>" Kursus Mengemudi dengan legalitas dan perijinan lengkap. Instruktur sabar dan kompeten serta bersertifikat. Kursus yang berijin dan tersertifikasi. "</p>
 								</div>
-								<div class="testimonial-detail"> <strong class="testimonial-name">Maria Smith</strong> <span class="testimonial-position">California</span> </div>
+								<div class="testimonial-detail clearfix bg-primary text-white">
+									<h4 class="testimonial-name m-tb0">Indah Nur Septi</h4>
+									<span class="testimonial-position">Student</span>
+									<div class="testimonial-pic radius"><img src="images/testimonials/pic1.jpg" alt="" width="100" height="100"></div>
+								</div>
 							</div>
 						</div>
 						<div class="item">
-							<div class="testimonial-1 testimonial-bg wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.4s">
-								<div class="testimonial-pic quote-left radius shadow"><img src="images/testimonials/pic2.jpg" width="100" height="100" alt=""></div>
-								<div class="testimonial-text">
-									<p>There are many variations of passages of Lorem Ipsum typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets conta</p>
+							<div class="testimonial-6">
+								<div class="testimonial-text bg-white quote-left quote-right">
+									<p>" Pelayanan sangat memuaskan, instruktur juga sabar dalam mendampingi,rekomended buat yang mau belajar. "</p>
 								</div>
-								<div class="testimonial-detail"> <strong class="testimonial-name">John Wiliamson</strong> <span class="testimonial-position">Newyork City</span> </div>
+								<div class="testimonial-detail clearfix bg-primary text-white">
+									<h4 class="testimonial-name m-tb0">Dewi Ana</h4>
+									<span class="testimonial-position">Student</span>
+									<div class="testimonial-pic radius"><img src="images/testimonials/pic2.jpg" alt="" width="100" height="100"></div>
+								</div>
 							</div>
 						</div>
 						<div class="item">
-							<div class="testimonial-1 testimonial-bg wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
-								<div class="testimonial-pic quote-left radius shadow"><img src="images/testimonials/pic3.jpg" width="100" height="100" alt=""></div>
-								<div class="testimonial-text">
-									<p>There are many variations of passages of Lorem Ipsum typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the when an printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets conta</p>
+							<div class="testimonial-6">
+								<div class="testimonial-text bg-white quote-left quote-right">
+									<p>" Kursus stir mobil disini sangat recommended sekali. Instrukturnya sangat profesional dalam mengajar. "</p>
 								</div>
-								<div class="testimonial-detail"> <strong class="testimonial-name">Mitchel Starc</strong> <span class="testimonial-position">Newyork City</span> </div>
+								<div class="testimonial-detail clearfix bg-primary text-white">
+									<h4 class="testimonial-name m-tb0">Rina Pramana</h4>
+									<span class="testimonial-position">Ibu Rumah Tangga</span>
+									<div class="testimonial-pic radius"><img src="images/testimonials/pic2.jpg" alt="" width="100" height="100"></div>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+
     </div>
     <!-- Content END-->
 	 <!-- Footer -->
     <?php include "footer.php" ?>
-     <!-- scroll top button -->
-    <button class="scroltop fas fa-arrow-up style3"></button>
 </div>
 
 <!-- JavaScript  files ========================================= -->
-<script src="js/jquery.min.js"></script><!-- JQUERY.MIN JS -->
-<script src="plugins/wow/wow.js"></script><!-- WOW JS -->
-<script src="plugins/bootstrap/js/bootstrap.bundle.min.js"></script><!-- BOOTSTRAP.MIN JS -->
-<script src="plugins/bootstrap-select/bootstrap-select.min.js"></script><!-- FORM JS -->
-<script src="plugins/bootstrap-touchspin/jquery.bootstrap-touchspin.js"></script><!-- FORM JS -->
-<script src="plugins/magnific-popup/magnific-popup.js"></script><!-- MAGNIFIC POPUP JS -->
-<script src="plugins/counter/waypoints-min.js"></script><!-- WAYPOINTS JS -->
-<script src="plugins/counter/counterup.min.js"></script><!-- COUNTERUP JS -->
-<script src="plugins/imagesloaded/imagesloaded.js"></script><!-- IMAGESLOADED -->
-<script src="plugins/masonry/masonry-3.1.4.js"></script><!-- MASONRY -->
-<script src="plugins/masonry/masonry.filter.js"></script><!-- MASONRY -->
-<script src="plugins/owl-carousel/owl.carousel.js"></script><!-- OWL SLIDER -->
-<script src="plugins/rangeslider/rangeslider.js" ></script><!-- Rangeslider -->
-<script src="plugins/lightgallery/js/lightgallery-all.js"></script><!-- LIGHT GALLERY -->
-<script src="js/custom.min.js"></script><!-- CUSTOM FUCTIONS  -->
-<script src="js/dz.carousel.min.js"></script><!-- SORTCODE FUCTIONS  -->
-<script src="js/dz.ajax.js"></script><!-- CONTACT JS -->
-
-<script src="js/swiper.js"></script>
+<?php include "javascript.php"?>
 
 <script>
     var appendNumber = 2;
