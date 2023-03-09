@@ -9,7 +9,7 @@
     <!-- Content -->
     <div class="page-content">
         <!-- inner page banner -->
-        <div class="dlab-bnr-inr overlay-black-middle" style="background-image:url(images/background/bg3.jpg);">
+        <div class="dlab-bnr-inr overlay-black-middle" style="background-image:url(images/background/bg1.jpg);">
             <div class="container">
                 <div class="dlab-bnr-inr-entry">
                     <h1 class="text-white">Tentang Kami</h1>

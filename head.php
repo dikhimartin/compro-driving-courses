@@ -5,10 +5,10 @@
 	<meta name="keywords" content="" />
 	<meta name="author" content="" />
 	<meta name="robots" content="" />
-	<meta name="description" content="AutoCare is well designed creating websites of automotive repair shops, stores with spare parts and accessories for car repairs, car washes, car danting and panting, service stations, car showrooms painting, major auto centers and other sites related to cars and car services." />
-	<meta property="og:title" content="Auto Care - Car Services Template" />
-	<meta property="og:description" content="AutoCare is well designed creating websites of automotive repair shops, stores with spare parts and accessories for car repairs, car washes, car danting and panting, service stations, car showrooms painting, major auto centers and other sites related to cars and car services." />
-	<meta property="og:image" content="http://autocare.dexignlab.com/xhtml/social-image.png" />
+	<meta name="description" content="" />
+	<meta property="og:title" content="Bina Drives - We make driving A breeze" />
+	<meta property="og:description" content="" />
+	<meta property="og:image" content="images/favicon.png" />
 	<meta name="format-detection" content="telephone=no">
 
 	<!-- FAVICONS ICON -->

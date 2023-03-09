@@ -17,8 +17,9 @@
 						<div class="vehicle-box style2" style="background-image: url(images/background/bg11.jpg);">
 							<div class="left-info">
 								<div class="top-info">
-									<h2 class="title" data-swiper-parallax="-500">Kursus</h2>
-									<h3 class="main-title" data-swiper-parallax="-400">Mengemudi</h3>
+								<h2 class="title mb-3" data-swiper-parallax="-500">BINA</h2>
+									<h3 class="main-title" data-swiper-parallax="-400">Driving</h3>
+									<h3 class="main-title" data-swiper-parallax="-400">Courses</h3>
 								</div>
 							</div>
 							<div class="right-info" data-swiper-parallax="-500">
@@ -31,8 +32,9 @@
 						<div class="vehicle-box style2" style="background-image: url(images/background/bg13.png);">
 							<div class="left-info">
 								<div class="top-info">
-									<h2 class="title" data-swiper-parallax="-500">Kursus</h2>
-									<h3 class="main-title" data-swiper-parallax="-400">Mengemudi</h3>
+									<h2 class="title" data-swiper-parallax="-500">BINA</h2>
+									<h3 class="main-title" data-swiper-parallax="-400">Driving</h3>
+									<h3 class="main-title" data-swiper-parallax="-400">Courses</h3>
 								</div>
 								<!-- <div class="bottom-info">
 									<ul class="vehicle-services">
