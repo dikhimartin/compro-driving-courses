@@ -35,10 +35,20 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="section-head text-left">
-								<h2 class="text-uppercase"> About  Company</h2>
-								<div class="aon-separator bg-primary"></div>
-								<p><strong>There are many variations of passages of Lorem Ipsum typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</strong></p>
-								<p class="m-b50">There are many variations of passages of Lorem Ipsum typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the with the release of Letraset sheets containing Lorem Ipsum </p>
+								<h2 class="text-uppercase"> BINA Driving Courses</h2>
+                                <div class="dlab-separator-outer">
+                                    <div class="dlab-separator bg-primary"></div>
+                                </div>
+                                <p>
+                                    BINA <strong>Drive</strong> adalah salah satu dari sekian banyak kursus mengemudi di Indonesia yang tetap eksis sampai sekarang. 
+                                    Sudah teruji memiliki instruktur yang handal dan berpengalaman di bidangnya.                                
+                                </p>
+								<p class="m-b50">
+                                    Didirikan pada tahun 2012, BINA <strong>Drive</strong> Mengemudi menjadi salah satu kursus mengemudi di Indonesia. 
+                                    telah mengajar puluhan ribu orang hingga mahir menyetir. Hal ini menjadikan BINA <strong>Drive</strong> Mengemudi sebagai 
+                                    salah satu lembaga kursus mengemudi terpercaya di Indonesia. 
+                                    Memiliki setidaknya 3 counter penerimaan siswa yang tersebar di wilayah karesidenan Surakarta.
+                                </p>
 							</div>
 							<div class="row">
 								<div class="col-md-6 col-sm-6 col-lg-6">
