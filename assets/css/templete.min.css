@@ -1964,8 +1964,8 @@
 	top: 14px;
 }
 .recent-vehicle .filters li.active a{
-	border-left:3px solid #ee3131;	
-	color:#ee3131;
+	border-left:3px solid #F68220;	
+	color:#F68220;
 }
 .site-filters{
 	position: static;
@@ -3612,7 +3612,7 @@ content: attr(data-name);
 .header-creative-two  .is-fixed .header-nav .nav > li.active > a,
 .header-creative-two  .is-fixed .header-nav .nav > li > a.active,
 .header-creative-two  .is-fixed .header-nav .nav > li:hover > a{
-	color:#EE3131;
+	color:#F68220;
 }
 .header-creative-two .navbar-toggler{
     margin: 42px 0 28px 15px;	
@@ -4163,14 +4163,14 @@ position: relative;
 	margin-left: 0;
 	margin-right: 10px;
 	text-align: center;
-	background-color: #EE3131;
+	background-color: #F68220;
 }
 
 /* Swiper Button Arrow */
 .creative-banner-three .swiper-button-prev:after,
 .creative-banner-three .swiper-button-next:after{
 	font-family: fontawesome;
-	color: #EE3131;
+	color: #F68220;
 	font-size: 40px;
 }
 .creative-banner-three .swiper-button-prev:after{
@@ -4250,7 +4250,7 @@ position: relative;
     line-height: 1.4;
 }
 .user-account .sub-menu li:hover a{
-	color:#EE3131;
+	color:#F68220;
 }
 .shop-menu{
 	position: absolute;

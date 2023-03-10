@@ -30,6 +30,6 @@
 	<link rel="stylesheet" type="text/css" href="assets/css/style.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/templete.min.css">
 	<link rel="stylesheet" type="text/css" href="assets/css/swiper.css">
-	<link class="skin"  rel="stylesheet" type="text/css" href="assets/css/skin/skin-3.css">
+	<link class="skin"  rel="stylesheet" type="text/css" href="assets/css/skin.css">
 	<link class="skin"  rel="stylesheet" type="text/css" href="assets/plugins/rangeslider/rangeslider.css">
 </head>

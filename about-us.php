@@ -208,9 +208,7 @@
     <?php include "footer.php"?>
 </div>
 
-<!-- JavaScript  files ========================================= -->
 <?php include "javascript.php"?>
-
 
 </body>
 </html>
