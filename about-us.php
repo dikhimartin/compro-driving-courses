@@ -26,8 +26,7 @@
                 </ul>
             </div>
         </div>
-        <!-- Breadcrumb row END -->
-        <!-- contact area -->
+        <!-- content area -->
         <div class="content">
             <!-- About Company -->
             <div class="section-full content-inner bg-white">
@@ -56,43 +55,43 @@
             </div>
 
             <!-- counter -->
-            <div class="section-full aon-our-services bg-gray bg-img-fix content-inner overlay-black-middle" style="background-image:url(images/background/bg2.jpg);">
+            <div class="section-full aon-our-services bg-gray bg-img-fix content-inner overlay-black-middle" style="background-image:url(images/background/bg1.jpg);">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                             <div class="p-a30 text-white text-center border-3">
                                 <div class="icon-lg m-b20">
-                                    <div class="icon-cell text-white"> <i class="ti-home"></i> </div>
+                                    <div class="icon-cell text-white"> <i class="fa fa-hourglass-half"></i></div>
                                 </div>
-                                <div class="counter font-26 font-weight-800 text-primary m-b5">1035</div>
-                                <span>Completed Project</span> 
+                                <div class="counter font-26 font-weight-800 text-primary m-b5">10</div>
+                                <span>Tahun Pengalaman</span> 
 							</div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                             <div class="p-a30 text-white text-center border-3">
                                 <div class="icon-lg m-b20">
-                                    <div class="icon-cell text-white"> <i class="ti-user"></i> </div>
+                                    <div class="icon-cell text-white"> <i class="fa fa-user"></i> </div>
                                 </div>
-                                <div class="counter font-26 font-weight-800 text-primary m-b5">1124</div>
-                                <span>Active Experts</span> 
+                                <div class="counter font-26 font-weight-800 text-primary m-b5">800</div>
+                                <span>Siswa Per Tahun</span> 
 							</div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 m-b30">
                             <div class="p-a30 text-white text-center border-3">
                                 <div class="icon-lg m-b20">
-                                    <div class="icon-cell text-white"> <i class="ti-user"></i> </div>
+                                    <div class="icon-cell text-white"> <i class="fa fa-users"></i> </div>
                                 </div>
-                                <div class="counter font-26 font-weight-800 text-primary m-b5">834</div>
-                                <span>Happy Clients</span> 
+                                <div class="counter font-26 font-weight-800 text-primary m-b5">20</div>
+                                <span>Instruktur</span> 
 							</div>
                         </div>
                         <div class="col-lg-3 col-md-6 col-sm-6 m-b10">
                             <div class="p-a30 text-white text-center border-3">
                                 <div class="icon-lg m-b20">
-                                    <div class="icon-cell text-white"> <i class="ti-pie-chart"></i> </div>
+                                    <div class="icon-cell text-white"> <i class="fa fa-trophy"></i> </div>
                                 </div>
-                                <div class="counter font-26 font-weight-800 text-primary m-b5">538</div>
-                                <span>Developer Hand</span> 
+                                <div class="counter font-26 font-weight-800 text-primary m-b5">150</div>
+                                <span>Penghargaan</span> 
 							</div>
                         </div>
                     </div>
@@ -203,7 +202,6 @@
                 </div>
             </div>
         </div>
-        <!-- contact area  END -->
     </div>
 
     <!-- Footer -->

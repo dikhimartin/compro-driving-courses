@@ -37,12 +37,12 @@
                         <li> <a href="javascript:void(0)">Tentang Kami<i class="fas fa-chevron-down"></i></a>
                             <ul class="sub-menu">
                                 <li><a href="about-us.php">Perusahaan</a></li>
-                                <li><a href="javascript:void(0)">Team Kami</a></li>
+                                <li><a href="our-team.php">Team Kami</a></li>
                             </ul>
                         </li>
-                        <li> <a href="javascript:void(0)">Paket Kursus</a></li>
-                        <li> <a href="javascript:void(0)">Jadwal Kursus</a></li>
-                        <li> <a href="javascript:void(0)">Kontak Kami</a></li>
+                        <li> <a href="course-price.php">Paket Kursus</a></li>
+                        <li> <a href="schedule-course.php">Jadwal Kursus</a></li>
+                        <li> <a href="contact-us.php">Kontak Kami</a></li>
                     </ul>
                 </div>
             </div>
