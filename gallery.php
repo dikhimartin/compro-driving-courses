@@ -35,100 +35,100 @@
                         <ul class="filters" data-bs-toggle="buttons">
                             <li data-filter="" class="btn active">
                                 <input type="radio">
-                                <a href="#" class="site-button-secondry"><span>Tampilkan semua</span></a> </li>
+                                <a href="javascript:void(0)" class="site-button-secondry"><span>Tampilkan semua</span></a> </li>
                             <li data-filter="home" class="btn">
                                 <input type="radio" >
-                                <a href="#" class="site-button-secondry"><span>Sarana</span></a> </li>
+                                <a href="javascript:void(0)" class="site-button-secondry"><span>Sarana</span></a> </li>
                             <li data-filter="office" class="btn">
                                 <input type="radio">
-                                <a href="#" class="site-button-secondry"><span>Pelatihan</span></a> </li>
+                                <a href="javascript:void(0)" class="site-button-secondry"><span>Pelatihan</span></a> </li>
                             <li data-filter="commercial" class="btn">
                                 <input type="radio">
-                                <a href="#" class="site-button-secondry"><span>Acara</span></a> </li>
+                                <a href="javascript:void(0)" class="site-button-secondry"><span>Acara</span></a> </li>
                             <li data-filter="window" class="btn">
                                 <input type="radio">
-                                <a href="#" class="site-button-secondry"><span>Testimoni</span></a> </li>
+                                <a href="javascript:void(0)" class="site-button-secondry"><span>Testimoni</span></a> </li>
                         </ul>
                     </div>
                     <div class="clearfix">
                         <ul id="masonry" class="row dlab-gallery-listing gallery-grid-4 mfp-gallery">
                             <li class="home card-container col-lg-4 col-md-4 col-sm-6 col-6">
                                 <div class="dlab-box dlab-gallery-box">
-                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/gallery/pic1.jpg"  alt=""> </a>
+                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="assets/images/gallery/pic1.jpg"  alt=""> </a>
                                         <div class="overlay-bx">
-                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="images/gallery/pic1.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
+                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="assets/images/gallery/pic1.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
                                         </div>
                                     </div>
                                 </div>
                             </li>
                             <li class="office card-container col-lg-4 col-md-4 col-sm-6 col-6">
                                 <div class="dlab-box dlab-gallery-box">
-                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow dlab-img-effect zoom"> <a href="javascript:void(0);"> <img src="images/gallery/pic2.jpg"  alt=""> </a>
+                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow dlab-img-effect zoom"> <a href="javascript:void(0);"> <img src="assets/images/gallery/pic2.jpg"  alt=""> </a>
                                         <div class="overlay-bx">
-                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="images/gallery/pic2.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
+                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="assets/images/gallery/pic2.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
                                         </div>
                                     </div>
                                 </div>
                             </li>
                             <li class="children-aid card-container col-lg-4 col-md-4 col-sm-6 col-6">
                                 <div class="dlab-box dlab-gallery-box">
-                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/gallery/pic3.jpg"  alt=""> </a>
+                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="assets/images/gallery/pic3.jpg"  alt=""> </a>
                                         <div class="overlay-bx">
-                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a href="images/gallery/pic3.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
+                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a href="assets/images/gallery/pic3.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
                                         </div>
                                     </div>
                                 </div>
                             </li>
                             <li class="commercial card-container col-lg-4 col-md-4 col-sm-6 col-6">
                                 <div class="dlab-box dlab-gallery-box">
-                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/gallery/pic4.jpg"  alt=""> </a>
+                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="assets/images/gallery/pic4.jpg"  alt=""> </a>
                                         <div class="overlay-bx">
-                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="images/gallery/pic4.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
+                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="assets/images/gallery/pic4.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
                                         </div>
                                     </div>
                                 </div>
                             </li>
                             <li class="window card-container col-lg-4 col-md-4 col-sm-6 col-6">
                                 <div class="dlab-box dlab-gallery-box">
-                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/gallery/pic5.jpg"  alt=""> </a>
+                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="assets/images/gallery/pic5.jpg"  alt=""> </a>
                                         <div class="overlay-bx">
-                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="images/gallery/pic5.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
+                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="assets/images/gallery/pic5.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
                                         </div>
                                     </div>
                                 </div>
                             </li>
                             <li class="window card-container col-lg-4 col-md-4 col-sm-6 col-6">
                                 <div class="dlab-box dlab-gallery-box">
-                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/gallery/pic6.jpg"  alt=""> </a>
+                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="assets/images/gallery/pic6.jpg"  alt=""> </a>
                                         <div class="overlay-bx">
-                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="images/gallery/pic6.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
+                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="assets/images/gallery/pic6.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
                                         </div>
                                     </div>
                                 </div>
                             </li>
                             <li class="window card-container col-lg-4 col-md-4 col-sm-6 col-6">
                                 <div class="dlab-box dlab-gallery-box">
-                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/gallery/pic1.jpg"  alt=""> </a>
+                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="assets/images/gallery/pic1.jpg"  alt=""> </a>
                                         <div class="overlay-bx">
-                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="images/gallery/pic1.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
+                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="assets/images/gallery/pic1.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
                                         </div>
                                     </div>
                                 </div>
                             </li>
                             <li class="home card-container col-lg-4 col-md-4 col-sm-6 col-6">
                                 <div class="dlab-box dlab-gallery-box">
-                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/gallery/pic2.jpg"  alt=""> </a>
+                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="assets/images/gallery/pic2.jpg"  alt=""> </a>
                                         <div class="overlay-bx">
-                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="images/gallery/pic2.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
+                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="assets/images/gallery/pic2.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
                                         </div>
                                     </div>
                                 </div>
                             </li>
                             <li class="office card-container col-lg-4 col-md-4 col-sm-6 col-6">
                                 <div class="dlab-box dlab-gallery-box">
-                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="images/gallery/pic9.jpg"  alt=""> </a>
+                                    <div class="dlab-thum dlab-img-overlay1 dlab-img-effect zoom-slow"> <a href="javascript:void(0);"> <img src="assets/images/gallery/pic9.jpg"  alt=""> </a>
                                         <div class="overlay-bx">
-                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="images/gallery/pic9.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
+                                            <div class="overlay-icon"> <a href="javascript:void(0);"> <i class="fas fa-link icon-bx-xs"></i> </a> <a  href="assets/images/gallery/pic9.jpg" class="mfp-link"  title="Image title come here"> <i class="far fa-image icon-bx-xs"></i> </a> </div>
                                         </div>
                                     </div>
                                 </div>

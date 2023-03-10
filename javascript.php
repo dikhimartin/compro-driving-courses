@@ -1,9 +1,11 @@
 <!-- JavaScript  files ========================================= -->
 <script src="assets/js/jquery.min.js"></script><!-- JQUERY.MIN JS -->
 <script src="assets/plugins/wow/wow.js"></script><!-- WOW JS -->
-<script src="assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script><!-- BOOTSTRAP.MIN JS -->
-<script src="assets/plugins/bootstrap-select/bootstrap-select.min.js"></script><!-- FORM JS -->
-<script src="assets/plugins/bootstrap-touchspin/jquery.bootstrap-touchspin.js"></script><!-- FORM JS -->
+
+<script src="assets/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="assets/plugins/bootstrap-select/bootstrap-select.min.js"></script>
+<script src="assets/plugins/bootstrap-touchspin/jquery.bootstrap-touchspin.js"></script>
+
 <script src="assets/plugins/magnific-popup/magnific-popup.js"></script><!-- MAGNIFIC POPUP JS -->
 <script src="assets/plugins/counter/waypoints-min.js"></script><!-- WAYPOINTS JS -->
 <script src="assets/plugins/counter/counterup.min.js"></script><!-- COUNTERUP JS -->
@@ -18,3 +20,4 @@
 <script src="assets/js/dz.carousel.min.js"></script><!-- SORTCODE FUCTIONS  -->
 <script src="assets/js/dz.ajax.js"></script><!-- CONTACT JS -->
 <script src="assets/js/swiper.js"></script>
+
