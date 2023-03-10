@@ -50,67 +50,11 @@
                                     Memiliki setidaknya 3 counter penerimaan siswa yang tersebar di wilayah karesidenan Surakarta.
                                 </p>
 							</div>
-							<div class="row">
-								<div class="col-md-6 col-sm-6 col-lg-6">
-									<div class="icon-bx-wraper bx-style-2 m-l40 m-b30 p-a30 left">
-										<div class="icon-bx-sm radius bg-primary"> <a href="#" class="icon-cell"><i class="ti-user"></i></a> </div>
-										<div class="icon-content p-l40">
-											<h4 class="w3-tilte">Our Best Workers</h4>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing  sed diam nibh euismod </p>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-6 col-sm-6 col-lg-6">
-									<div class="icon-bx-wraper bx-style-2 m-l40 m-b30 p-a30 left">
-										<div class="icon-bx-sm radius bg-primary"> <a href="#" class="icon-cell"><i class="ti-car"></i></a> </div>
-										<div class="icon-content p-l40">
-											<h4 class="w3-tilte ">Fast Car Searvice</h4>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing  sed diam nibh euismod </p>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-6 col-sm-6 col-lg-6">
-									<div class="icon-bx-wraper bx-style-2 m-l40 m-b30 p-a30 left">
-										<div class="icon-bx-sm radius bg-primary"> <a href="#" class="icon-cell"><i class="ti-user"></i></a> </div>
-										<div class="icon-content p-l40">
-											<h4 class="w3-tilte ">Well Qualified Staff</h4>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing  sed diam nibh euismod </p>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-6 col-sm-6 col-lg-6">
-									<div class="icon-bx-wraper bx-style-2 m-l40 m-b30 p-a30 left">
-										<div class="icon-bx-sm radius bg-primary"> <a href="#" class="icon-cell"><i class="ti-settings"></i></a> </div>
-										<div class="icon-content p-l40">
-											<h4 class="w3-tilte ">24X7 Service</h4>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing  sed diam nibh euismod </p>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-6 col-sm-6 col-lg-6">
-									<div class="icon-bx-wraper bx-style-2 m-l40 m-b30 p-a30 left">
-										<div class="icon-bx-sm radius bg-primary"> <a href="#" class="icon-cell"><i class="ti-cup"></i></a> </div>
-										<div class="icon-content p-l40">
-											<h4 class="w3-tilte ">Best Materials</h4>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing  sed diam nibh euismod </p>
-										</div>
-									</div>
-								</div>
-								<div class="col-md-6 col-sm-6 col-lg-6">
-									<div class="icon-bx-wraper bx-style-2 m-l40 m-b10 p-a30 left">
-										<div class="icon-bx-sm radius bg-primary"> <a href="#" class="icon-cell"><i class="ti-flag-alt-2"></i></a> </div>
-										<div class="icon-content p-l40">
-											<h4 class="w3-tilte">Auto Care</h4>
-											<p>Lorem ipsum dolor sit amet, consectetuer adipiscing  sed diam nibh euismod </p>
-										</div>
-									</div>
-								</div>
-							</div>
 						</div>
 					</div>
 				</div>
             </div>
-			<!-- About Company END -->
+
             <!-- counter -->
             <div class="section-full aon-our-services bg-gray bg-img-fix content-inner overlay-black-middle" style="background-image:url(images/background/bg2.jpg);">
                 <div class="container">
@@ -154,68 +98,103 @@
                     </div>
                 </div>
             </div>
-            <!-- Counter END-->
+
+
             <!-- Architecture -->
             <div class="section-full aon-our-team bg-white content-inner">
                 <div class="container">
                     <div class="section-head text-center">
-                        <h2 class="text-uppercase"> Architecture</h2>
-                        <span class="title-small">Best Cleaning Deals</span>
+                        <h2 class="text-uppercase"> Pertanyaan Umum</h2>
+                        <span class="title-small">Berikut adalah pertanyaan yang sering diajukan kepada kami</span>
                         <div class="after-titile-line"></div>
                     </div>
                     <div class="section-content">
                         <div class="row">
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="icon-bx-wraper bx-style-2 m-l40 m-b30 p-a30 left">
-                                    <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-settings"></i></a> </div>
-                                    <div class="icon-content p-l40">
-                                        <h5 class="dlab-tilte text-uppercase">AIR CONDITIONING</h5>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+                            <div class="col-12">
+                                <div class="dlab-accordion rounded space bg-title no-cover" id="accordion-faq">
+                                    <div class="panel">
+                                        <div class="acod-head">
+                                            <h5 class="acod-title"> 
+                                                <a data-bs-toggle="collapse" href="#collapseOne1" aria-expanded="false" class="collapsed">
+                                                    Apakah biaya pelatihan dapat diangsur?
+                                                </a> 
+                                            </h5>
+                                        </div>
+                                        <div id="collapseOne1" class="acod-body collapse" data-bs-parent="#accordion-faq" style="">
+                                            <div class="acod-content">
+                                                Sangat bisa! biaya pelatihan dapat diangsur sesuai ketentuan.
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="icon-bx-wraper bx-style-2 m-l40 m-b30 p-a30 left">
-                                    <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-reload"></i></a> </div>
-                                    <div class="icon-content p-l40">
-                                        <h5 class="dlab-tilte text-uppercase">BRAKE REPAIR</h5>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+                                    <div class="panel">
+                                        <div class="acod-head">
+                                            <h5 class="acod-title"> 
+                                                <a data-bs-toggle="collapse" href="#collapseTwo" aria-expanded="false" class="collapsed">
+                                                    Apakah bisa memilih jadwal sendiri?
+                                                </a> 
+                                            </h5>
+                                        </div>
+                                        <div id="collapseTwo" class="acod-body collapse" data-bs-parent="#accordion-faq" style="">
+                                            <div class="acod-content">
+                                                Tentu saja bisa. Jadwal latihan ditentukan oleh siswa sendiri disesuaikan dengan paket yang diambil dan jadwal yang sudah ada
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="icon-bx-wraper bx-style-2 m-l40 m-b30 p-a30 left">
-                                    <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-crown"></i></a> </div>
-                                    <div class="icon-content p-l40">
-                                        <h5 class="dlab-tilte text-uppercase">LUBE, OIL AND FILTERS</h5>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+                                    <div class="panel">
+                                        <div class="acod-head">
+                                            <h5 class="acod-title"> 
+                                                <a data-bs-toggle="collapse" href="#collapseThree" aria-expanded="false" class="collapsed">
+                                                    Mobil yang digunakan apa saja?
+                                                </a> 
+                                            </h5>
+                                        </div>
+                                        <div id="collapseThree" class="acod-body collapse" data-bs-parent="#accordion-faq" style="">
+                                            <div class="acod-content">
+                                                Kami menggunakan mobil Daihatsu Xenia, Ayla, Sigra dan selalu maintenance rutin demi menjaga keamanan dan kenyamanan
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="icon-bx-wraper bx-style-2 m-l40 m-b30 p-a30 left">
-                                    <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-cup"></i></a> </div>
-                                    <div class="icon-content p-l40">
-                                        <h5 class="dlab-tilte text-uppercase">BELTS AND HOSES</h5>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+                                    <div class="panel">
+                                        <div class="acod-head">
+                                            <h5 class="acod-title"> 
+                                                <a data-bs-toggle="collapse" href="#collapseFour" aria-expanded="false" class="collapsed">
+                                                    Apakah siswa saat pelatihan akan digabung ?
+                                                </a> 
+                                            </h5>
+                                        </div>
+                                        <div id="collapseFour" class="acod-body collapse" data-bs-parent="#accordion-faq" style="">
+                                            <div class="acod-content">
+                                                Tidak, siswa latihan hanya ada 1 di dalam mobil bersama instruktur, <strong>1 Siswa = 1 Mobil</strong>
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="icon-bx-wraper bx-style-2 m-l40 m-b30 p-a30 left">
-                                    <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-pencil"></i></a> </div>
-                                    <div class="icon-content p-l40">
-                                        <h5 class="dlab-tilte text-uppercase">ENGINE DIAGNOSTICS</h5>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+                                    <div class="panel">
+                                        <div class="acod-head">
+                                            <h5 class="acod-title"> 
+                                                <a data-bs-toggle="collapse" href="#collapseFive" aria-expanded="false" class="collapsed">
+                                                    Apakah boleh mengajak seseorang pada saat pelatihan?
+                                                </a> 
+                                            </h5>
+                                        </div>
+                                        <div id="collapseFive" class="acod-body collapse" data-bs-parent="#accordion-faq" style="">
+                                            <div class="acod-content">
+                                                Demi keamanan bersama, tidak diperkenankan karena dapat mengganggu konsentrasi siswa maupun instruktur saat mengajar.
+                                            </div>
+                                        </div>
                                     </div>
-                                </div>
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6">
-                                <div class="icon-bx-wraper bx-style-2 m-l40 m-b10 p-a30 left">
-                                    <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-flag-alt-2"></i></a> </div>
-                                    <div class="icon-content p-l40">
-                                        <h5 class="dlab-tilte text-uppercase">TIRE AND WHEEL SERVICES</h5>
-                                        <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod </p>
+                                    <div class="panel">
+                                        <div class="acod-head">
+                                            <h5 class="acod-title"> 
+                                                <a data-bs-toggle="collapse" href="#collapseSix" aria-expanded="false" class="collapsed">
+                                                    Durasi latihan berapa lama?
+                                                </a> 
+                                            </h5>
+                                        </div>
+                                        <div id="collapseSix" class="acod-body collapse" data-bs-parent="#accordion-faq" style="">
+                                            <div class="acod-content">
+                                                Durasi latihan sangat variatif tergantung paket yang anda pilih, bisa dimulai dari beberapa hari saja atau sampai beberapa minggu
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>
