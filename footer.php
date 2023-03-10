@@ -33,7 +33,7 @@
 <div class="footer-top">
     <div class="container">
         <div class="row">
-            <div class="col-lg-3 col-md-6 col-sm-6 footer-col-4 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.2s">
+            <div class="col-lg-3 col-md-6 col-sm-6 footer-col-4 wow">
                 <div class="widget widget_about">
                     <div class="logo-footer logo-white"><img src="images/logo-bina-drive-white.png" alt=""></div>
                     <p>Dapatkan Informasi tentang promo dan berita terbaru dari kami dengan cara mengikuti salah satu social media kami dibawah ini:</p>
@@ -41,11 +41,11 @@
                         <li><a class="fab fa-facebook-f" href="https://www.facebook.com/" target="blank"></a></li>
                         <li><a class="fab fa-twitter" href="https://www.twitter.com/" target="blank"></a></li>
                         <li><a class="fab fa-linkedin-in" href="https://www.linkedin.com/" target="blank"></a></li>
-                        <li><a class="fab fa-facebook-f" href="https://www.facebook.com/" target="blank"></a></li>
+                        <li><a class="fab fa-instagram" href="https://www.instagram.com/" target="blank"></a></li>
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 footer-col-4 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
+            <div class="col-lg-3 col-md-6 col-sm-6 footer-col-4 wow">
                 <div class="widget widget_services">
                     <h4 class="m-b15 text-uppercase">Layanan Kami</h4>
                     <div class="dlab-separator-outer m-b10">
@@ -59,7 +59,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 footer-col-4 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.8s">
+            <div class="col-lg-3 col-md-6 col-sm-6 footer-col-4 wow">
                 <div class="widget widget_getintuch">
                     <h4 class="m-b15 text-uppercase">Hubungi Kami</h4>
                     <div class="dlab-separator-outer m-b10">
@@ -73,7 +73,7 @@
                     </ul>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 col-sm-6 footer-col-4 wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.6s">
+            <div class="col-lg-3 col-md-6 col-sm-6 footer-col-4 wow">
                 <div class="widget widget_services">
                     <h4 class="m-b15 text-uppercase">Ijin Usaha</h4>
                     <div class="dlab-separator-outer m-b10">

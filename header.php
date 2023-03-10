@@ -41,7 +41,7 @@
                             </ul>
                         </li>
                         <li> <a href="course-price.php">Paket Kursus</a></li>
-                        <li> <a href="schedule-course.php">Jadwal Kursus</a></li>
+                        <li> <a href="gallery.php">Galeri</a></li>
                         <li> <a href="contact-us.php">Kontak Kami</a></li>
                     </ul>
                 </div>

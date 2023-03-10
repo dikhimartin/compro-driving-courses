@@ -12,7 +12,7 @@
         <div class="dlab-bnr-inr overlay-black-middle" style="background-image:url(images/background/bg1.jpg);">
             <div class="container">
                 <div class="dlab-bnr-inr-entry">
-                    <h1 class="text-white">Jadwal Kursus</h1>
+                    <h1 class="text-white">Galeri</h1>
                 </div>
             </div>
         </div>
@@ -22,7 +22,7 @@
             <div class="container">
                 <ul class="list-inline">
                     <li><a href="index.php">Beranda</a></li>
-                    <li>Jadwal Kursus</li>
+                    <li>Galeri</li>
                 </ul>
             </div>
         </div>
