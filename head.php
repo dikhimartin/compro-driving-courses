@@ -8,12 +8,12 @@
 	<meta name="description" content="" />
 	<meta property="og:title" content="Bina Drives - We make driving A breeze" />
 	<meta property="og:description" content="" />
-	<meta property="og:image" content="images/favicon.png" />
+	<meta property="og:image" content="assets/images/favicon.png" />
 	<meta name="format-detection" content="telephone=no">
 
 	<!-- FAVICONS ICON -->
-	<link rel="icon" href="images/favicon.ico" type="image/x-icon" />
-	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.png" />
+	<link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
+	<link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png" />
 	
 	<!-- PAGE TITLE HERE -->
 	<title>Bina Driving Courses</title>
@@ -27,9 +27,9 @@
 	<![endif]-->
 		
 	<!-- STYLESHEETS -->
-	<link rel="stylesheet" type="text/css" href="css/style.min.css">
-	<link rel="stylesheet" type="text/css" href="css/templete.min.css">
-	<link rel="stylesheet" type="text/css" href="css/swiper.css">
-	<link class="skin"  rel="stylesheet" type="text/css" href="css/skin/skin-3.css">
-	<link class="skin"  rel="stylesheet" type="text/css" href="plugins/rangeslider/rangeslider.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/style.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/templete.min.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/swiper.css">
+	<link class="skin"  rel="stylesheet" type="text/css" href="assets/css/skin/skin-3.css">
+	<link class="skin"  rel="stylesheet" type="text/css" href="assets/plugins/rangeslider/rangeslider.css">
 </head>

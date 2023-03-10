@@ -9,7 +9,7 @@
     <!-- Content -->
     <div class="page-content">
         <!-- inner page banner -->
-        <div class="dlab-bnr-inr overlay-black-middle" style="background-image:url(images/background/bg1.jpg);">
+        <div class="dlab-bnr-inr overlay-black-middle" style="background-image:url(assets/images/background/bg1.jpg);">
             <div class="container">
                 <div class="dlab-bnr-inr-entry">
                     <h1 class="text-white">Tentang Kami</h1>
@@ -55,7 +55,7 @@
             </div>
 
             <!-- counter -->
-            <div class="section-full aon-our-services bg-gray bg-img-fix content-inner overlay-black-middle" style="background-image:url(images/background/bg1.jpg);">
+            <div class="section-full aon-our-services bg-gray bg-img-fix content-inner overlay-black-middle" style="background-image:url(assets/images/background/bg1.jpg);">
                 <div class="container">
                     <div class="row">
                         <div class="col-lg-3 col-md-6 col-sm-6 m-b30">

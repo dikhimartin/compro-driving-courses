@@ -14,7 +14,7 @@
 				<div class="swiper-wrapper">
                     <!-- Mobile Slider -->
 					<div class="swiper-slide d-block d-sm-none">
-						<div class="vehicle-box style2" style="background-image: url(images/background/bg11.jpg);">
+						<div class="vehicle-box style2" style="background-image: url(assets/images/background/bg11.jpg);">
 							<div class="left-info">
 								<div class="top-info">
 								<h2 class="title mb-3" data-swiper-parallax="-500">BINA</h2>
@@ -29,7 +29,7 @@
 					</div>
                     <!-- Desktop Slider -->
 					<div class="swiper-slide d-none d-sm-block">
-						<div class="vehicle-box style2" style="background-image: url(images/background/bg13.png);">
+						<div class="vehicle-box style2" style="background-image: url(assets/images/background/bg13.png);">
 							<div class="left-info">
 								<div class="top-info">
 									<h2 class="title" data-swiper-parallax="-500">BINA</h2>
@@ -54,7 +54,7 @@
 								</div> -->
 							</div>
 							<div class="vehicle-img">
-								<img src="images/car.png" alt="" data-swiper-parallax="-700">
+								<img src="assets/images/car.png" alt="" data-swiper-parallax="-700">
 							</div>
 							<div class="right-info" data-swiper-parallax="-500">
 								<h2 class="title">classic</h2>
@@ -62,7 +62,7 @@
 						</div>
 					</div>
 					<div class="swiper-slide d-none d-sm-block">
-						<div class="vehicle-box style2" style="background-image: url(images/background/bg13.png);">
+						<div class="vehicle-box style2" style="background-image: url(assets/images/background/bg13.png);">
 							<div class="left-info">
 								<div class="top-info">
 									<h2 class="title" data-swiper-parallax="-500">Kursus</h2>
@@ -86,7 +86,7 @@
 								</div> -->
 							</div>
 							<div class="vehicle-img">
-								<img src="images/car.png" alt="" data-swiper-parallax="-700">
+								<img src="assets/images/car.png" alt="" data-swiper-parallax="-700">
 							</div>
 							<div class="right-info" data-swiper-parallax="-500">
 								<h2 class="title">classic</h2>
@@ -257,7 +257,7 @@
 								<div class="testimonial-detail clearfix bg-primary text-white">
 									<h4 class="testimonial-name m-tb0">Indah Nur Septi</h4>
 									<span class="testimonial-position">Student</span>
-									<div class="testimonial-pic radius"><img src="images/testimonials/pic1.jpg" alt="" width="100" height="100"></div>
+									<div class="testimonial-pic radius"><img src="assets/images/testimonials/pic1.jpg" alt="" width="100" height="100"></div>
 								</div>
 							</div>
 						</div>
@@ -269,7 +269,7 @@
 								<div class="testimonial-detail clearfix bg-primary text-white">
 									<h4 class="testimonial-name m-tb0">Dewi Ana</h4>
 									<span class="testimonial-position">Student</span>
-									<div class="testimonial-pic radius"><img src="images/testimonials/pic2.jpg" alt="" width="100" height="100"></div>
+									<div class="testimonial-pic radius"><img src="assets/images/testimonials/pic2.jpg" alt="" width="100" height="100"></div>
 								</div>
 							</div>
 						</div>
@@ -281,7 +281,7 @@
 								<div class="testimonial-detail clearfix bg-primary text-white">
 									<h4 class="testimonial-name m-tb0">Rina Pramana</h4>
 									<span class="testimonial-position">Ibu Rumah Tangga</span>
-									<div class="testimonial-pic radius"><img src="images/testimonials/pic2.jpg" alt="" width="100" height="100"></div>
+									<div class="testimonial-pic radius"><img src="assets/images/testimonials/pic2.jpg" alt="" width="100" height="100"></div>
 								</div>
 							</div>
 						</div>

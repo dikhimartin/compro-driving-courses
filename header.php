@@ -7,7 +7,7 @@
                 <!-- website logo -->
                 <div class="logo-header logo-ac mostion">
                     <a href="index.php">
-                        <img src="images/logo-bina-drive.png" alt="">
+                        <img src="assets/images/logo-bina-drive.png" alt="">
                     </a>
                 </div>
                 <!-- nav toggle button -->

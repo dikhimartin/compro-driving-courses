@@ -35,7 +35,7 @@
         <div class="row">
             <div class="col-lg-3 col-md-6 col-sm-6 footer-col-4 wow">
                 <div class="widget widget_about">
-                    <div class="logo-footer logo-white"><img src="images/logo-bina-drive-white.png" alt=""></div>
+                    <div class="logo-footer logo-white"><img src="assets/images/logo-bina-drive-white.png" alt=""></div>
                     <p>Dapatkan Informasi tentang promo dan berita terbaru dari kami dengan cara mengikuti salah satu social media kami dibawah ini:</p>
                     <ul class="dlab-social-icon dlab-border">
                         <li><a class="fab fa-facebook-f" href="https://www.facebook.com/" target="blank"></a></li>
