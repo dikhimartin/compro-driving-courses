@@ -75,7 +75,7 @@ var Autocare = function(){
 	/* Load File ============ */
 	var dzTheme = function(){
 		 'use strict';
-		 var loadingImage = '<img src="assets/images/loading.gif">';
+		 var loadingImage = '<img src="images/loading.gif">';
 		 jQuery('.dzload').each(function(){
 		 var dzsrc =   siteUrl + $(this).attr('dzsrc');
 		  //jQuery(this).html(loadingImage);
@@ -384,7 +384,7 @@ var Autocare = function(){
 			var self = $("#masonry, .masonry");
 			if(jQuery('.card-container').length)
 		    {
-				self.assets/imagesLoaded(function () {
+				self.imagesLoaded(function () {
 					self.masonry({
 						gutterWidth: 15,
 						isAnimated: true,
@@ -422,7 +422,7 @@ var Autocare = function(){
 		{
 			var masonry1 = $("#masonry1");
 			
-				masonry1.assets/imagesLoaded(function () {
+				masonry1.imagesLoaded(function () {
 					masonry1.masonry({
 						gutterWidth: 15,
 						isAnimated: true,
@@ -452,7 +452,7 @@ var Autocare = function(){
 		{
 			var masonry2 = $("#masonry2");
 			
-				masonry2.assets/imagesLoaded(function () {
+				masonry2.imagesLoaded(function () {
 					masonry2.masonry({
 						gutterWidth: 15,
 						isAnimated: true,

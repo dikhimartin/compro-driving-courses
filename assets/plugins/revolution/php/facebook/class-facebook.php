@@ -3,7 +3,7 @@
 /**
  * Facebook
  *
- * with help of the API this class delivers album assets/images from Facebook
+ * with help of the API this class delivers album images from Facebook
  *
  * @package    socialstreams
  * @subpackage socialstreams/facebook

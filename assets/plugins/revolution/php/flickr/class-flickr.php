@@ -3,7 +3,7 @@
 /**
  * Flickr
  *
- * with help of the API this class delivers all kind of assets/images from flickr
+ * with help of the API this class delivers all kind of Images from flickr
  *
  * @package    socialstreams
  * @subpackage socialstreams/flickr

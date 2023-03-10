@@ -649,7 +649,7 @@
     -o-transform: skewX(-20deg);
     -ms-transform: skewX(-20deg);
     transform: skewX(-20deg);
-    background-image: url(../assets/images/counter.png);
+    background-image: url(../images/counter.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: left;
@@ -1592,7 +1592,7 @@
 		line-height: 40px;
 		margin-right: 5px;
 	}
-	/* BG assets/images */
+	/* BG Images */
 	.meet-ask-row:after{
 		background-image:none;
 	}

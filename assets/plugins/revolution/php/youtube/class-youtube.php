@@ -3,7 +3,7 @@
 /**
  * Youtube
  *
- * with help of the API this class delivers all kind of assets/images/Videos from youtube
+ * with help of the API this class delivers all kind of Images/Videos from youtube
  *
  * @package    socialstreams
  * @subpackage socialstreams/youtube

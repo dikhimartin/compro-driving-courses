@@ -3,7 +3,7 @@ include 'RestApi.php';
 /**
  * Twitter
  *
- * with help of the API this class delivers all kind of tweeted assets/images from twitter
+ * with help of the API this class delivers all kind of tweeted images from twitter
  *
  * @package    socialstreams
  * @subpackage socialstreams/twitter

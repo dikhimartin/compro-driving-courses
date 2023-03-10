@@ -15,8 +15,8 @@
 	>text color
 	>background color
 	----------------
-9. assets/images OVERLAY EFFECTS (overly animation on assets/images)
-10. assets/images EFFECTS (image animation in assets/images)
+9. IMAGES OVERLAY EFFECTS (overly animation on images)
+10. IMAGES EFFECTS (image animation in images)
 	 >image-opacity
 	 >image-zoom
 	 >image-zoom-slow
@@ -1229,7 +1229,7 @@ dl dd {
 }
 
 /*---------------------------------------------------------------
-9. assets/images OVERLAY EFFECTS (overly animation on assets/images)
+9. IMAGES OVERLAY EFFECTS (overly animation on images)
 ---------------------------------------------------------------*/
 
 .dlab-img-overlay1,
@@ -1434,7 +1434,7 @@ dl dd {
 }
 
 /*---------------------------------------------------------------
-10. assets/images EFFECTS (image animation in assets/images)
+10. IMAGES EFFECTS (image animation in images)
 	 >image-opacity
 	 >image-zoom
 	 >image-zoom-slow
@@ -2092,7 +2092,7 @@ input[type=radio]:checked + label:before {
 .loading-pic {
     width: 70px;
     height: 70px;
-    background: url(inc/assets/images/loading.GIF) center no-repeat;
+    background: url(inc/images/loading.GIF) center no-repeat;
     position: fixed;
     left: 50%;
     top: 50%;
@@ -2555,7 +2555,7 @@ blockquote:before {
     right: -159px;
     height: 100%;
     background-color: rgba(0,0,0,0);
-    background-image: url(../assets/images/header-curv.png);
+    background-image: url(../images/header-curv.png);
     width: 130px;
     background-size: cover;
 }
@@ -3314,7 +3314,7 @@ blockquote:before {
 }
 .header-nav .nav.nav-style > li.active:after{
 	content: "";
-	background-image: url(../assets/images/nav-active.png);
+	background-image: url(../images/nav-active.png);
 	height: 100%;
 	width: 150%;
 	display: block;
@@ -3677,7 +3677,7 @@ blockquote:before {
 
 .banner-inner-row.provider-banner-off {
     height: 150px;
-    background-image: url("file:///C|/Users/admin/Documents/inc/assets/images/pattern/pattern1.jpg") !important;
+    background-image: url("file:///C|/Users/admin/Documents/inc/images/pattern/pattern1.jpg") !important;
     background-repeat: repeat;
     background-size: auto;
 }
@@ -4200,7 +4200,7 @@ blockquote:before {
     -ms-transform: skewX(20deg);
     transform: skewX(20deg);
 	background-color:var(--primary);
-	background-image: url(../assets/images/counter.png);
+	background-image: url(../images/counter.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: right;
@@ -8330,7 +8330,7 @@ a,
     -o-transform: skewX(20deg);
     -ms-transform: skewX(20deg);
     transform: skewX(20deg);
-	background-image: url(../assets/images/counter.png);
+	background-image: url(../images/counter.png);
 	background-size: contain;
 	background-repeat: no-repeat;
 	background-position: right;
@@ -8364,7 +8364,7 @@ a,
 .right-border:before {
     right: 0;
 }
-/*==for assets/images==*/
+/*==for images==*/
 
 .dlab-media,
 .dlab-media,
@@ -10097,21 +10097,21 @@ ol.commentlist li .star-rating {
     top: 0;
     opacity: 1;
     z-index: 9999;
-    background-image: url(../assets/images/loading.gif);
+    background-image: url(../images/loading.gif);
     background-repeat: no-repeat;
     background-size: 150px;
     background-position: center;
 }
 #loading-area.loader1{
-	background-image: url(../assets/images/loader1.gif);
+	background-image: url(../images/loader1.gif);
     background-size: 350px;
 }
 #loading-area.loader2{
-	background-image: url(../assets/images/loader2.gif);
+	background-image: url(../images/loader2.gif);
     background-size: 350px;
 }
 #loading-area.loader3{
-	background-image: url(../assets/images/loader3.gif);
+	background-image: url(../images/loader3.gif);
     background-size: 280px;
 }
 /* Heading Font Style Change */
@@ -10717,7 +10717,7 @@ ol.commentlist li .star-rating {
 	margin-bottom: -15px;
 }
 
-#rc-assets/imageselect {
+#rc-imageselect {
     transform:scale(0.88);
     -webkit-transform:scale(0.88);
     -moz-transform:scale(0.88);
@@ -10729,7 +10729,7 @@ ol.commentlist li .star-rating {
     -webkit-transform-origin:0 0;
 }
 @media screen and (max-height: 575px){
-#rc-assets/imageselect, .g-recaptcha {
+#rc-imageselect, .g-recaptcha {
         transform:scale(0.77);
         -moz-transform:scale(0.77);
         -o-transform:scale(0.77);

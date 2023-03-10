@@ -3690,10 +3690,10 @@ class PHPMailer
 
     /**
      * Add an embedded (inline) attachment from a file.
-     * This can include assets/images, sounds, and just about any other document type.
+     * This can include images, sounds, and just about any other document type.
      * These differ from 'regular' attachments in that they are intended to be
      * displayed inline with the message, not just attached for download.
-     * This is used in HTML messages that embed the assets/images
+     * This is used in HTML messages that embed the images
      * the HTML refers to using the $cid value.
      * Never use a user-supplied path to a file!
      *
@@ -3762,7 +3762,7 @@ class PHPMailer
 
     /**
      * Add an embedded stringified attachment.
-     * This can include assets/images, sounds, and just about any other document type.
+     * This can include images, sounds, and just about any other document type.
      * If your filename doesn't contain an extension, be sure to set the $type to an appropriate MIME type.
      *
      * @param string $string      The attachment binary data
@@ -4174,17 +4174,17 @@ class PHPMailer
 
     /**
      * Create a message body from an HTML string.
-     * Automatically inlines assets/images and creates a plain-text version by converting the HTML,
+     * Automatically inlines images and creates a plain-text version by converting the HTML,
      * overwriting any existing values in Body and AltBody.
      * Do not source $message content from user input!
-     * $basedir is prepended when handling relative URLs, e.g. <img src="/assets/images/a.png"> and must not be empty
-     * will look for an image file in $basedir/assets/images/a.png and convert it to inline.
+     * $basedir is prepended when handling relative URLs, e.g. <img src="/images/a.png"> and must not be empty
+     * will look for an image file in $basedir/images/a.png and convert it to inline.
      * If you don't provide a $basedir, relative paths will be left untouched (and thus probably break in email)
-     * Converts data-uri assets/images into embedded attachments.
+     * Converts data-uri images into embedded attachments.
      * If you don't want to apply these transformations to your HTML, just set Body and AltBody directly.
      *
      * @param string        $message  HTML message string
-     * @param string        $basedir  Absolute path to a base directory to prepend to relative paths to assets/images
+     * @param string        $basedir  Absolute path to a base directory to prepend to relative paths to images
      * @param bool|callable $advanced Whether to use the internal HTML to text converter
      *                                or your own custom converter
      * @return string The transformed message body
@@ -4195,14 +4195,14 @@ class PHPMailer
      */
     public function msgHTML($message, $basedir = '', $advanced = false)
     {
-        preg_match_all('/(?<!-)(src|background)=["\'](.*)["\']/Ui', $message, $assets/images);
-        if (array_key_exists(2, $assets/images)) {
+        preg_match_all('/(?<!-)(src|background)=["\'](.*)["\']/Ui', $message, $images);
+        if (array_key_exists(2, $images)) {
             if (strlen($basedir) > 1 && '/' !== substr($basedir, -1)) {
                 //Ensure $basedir has a trailing /
                 $basedir .= '/';
             }
-            foreach ($assets/images[2] as $imgindex => $url) {
-                //Convert data URIs into embedded assets/images
+            foreach ($images[2] as $imgindex => $url) {
+                //Convert data URIs into embedded images
                 //e.g. "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
                 $match = [];
                 if (preg_match('#^data:(image/(?:jpe?g|gif|png));?(base64)?,(.+)#', $url, $match)) {
@@ -4228,8 +4228,8 @@ class PHPMailer
                         );
                     }
                     $message = str_replace(
-                        $assets/images[0][$imgindex],
-                        $assets/images[1][$imgindex] . '="cid:' . $cid . '"',
+                        $images[0][$imgindex],
+                        $images[1][$imgindex] . '="cid:' . $cid . '"',
                         $message
                     );
                     continue;
@@ -4239,7 +4239,7 @@ class PHPMailer
                     !empty($basedir)
                     //Ignore URLs containing parent dir traversal (..)
                     && (strpos($url, '..') === false)
-                    //Do not change urls that are already inline assets/images
+                    //Do not change urls that are already inline images
                     && 0 !== strpos($url, 'cid:')
                     //Do not change absolute URLs, including anonymous protocol
                     && !preg_match('#^[a-z][a-z0-9+.-]*:?//#i', $url)
@@ -4267,8 +4267,8 @@ class PHPMailer
                         )
                     ) {
                         $message = preg_replace(
-                            '/' . $assets/images[1][$imgindex] . '=["\']' . preg_quote($url, '/') . '["\']/Ui',
-                            $assets/images[1][$imgindex] . '="cid:' . $cid . '"',
+                            '/' . $images[1][$imgindex] . '=["\']' . preg_quote($url, '/') . '["\']/Ui',
+                            $images[1][$imgindex] . '="cid:' . $cid . '"',
                             $message
                         );
                     }

@@ -3,7 +3,7 @@
 /**
  * Instagram
  *
- * with help of the API this class delivers all kind of assets/images from instagram
+ * with help of the API this class delivers all kind of Images from instagram
  *
  * @package    socialstreams
  * @subpackage socialstreams/instagram

@@ -38,7 +38,7 @@
                         <div class="row">
                             <div class="col-lg-4 col-md-4 col-sm-6 dlab-team-1 left">
                                 <div class="dlab-box m-b30 team-skew ">
-                                    <div class="dlab-media"> <img src="assets/images/our-team/pic1.png" alt="" width="358" height="460">
+                                    <div class="dlab-media"> <img src="images/our-team/pic1.png" alt="" width="358" height="460">
                                     <div class="dlab-info-has">
                                         <ul class="dlab-social-icon bg-primary">
                                                 <li><a class="fab fa-facebook-f" href="https://www.facebook.com/" target="blank"></a></li>
@@ -56,7 +56,7 @@
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-6 dlab-team-1">
                                 <div class="dlab-box m-b30 team-skew ">
-                                    <div class="dlab-media"> <img src="assets/images/our-team/pic2.png" alt="" width="358" height="460">
+                                    <div class="dlab-media"> <img src="images/our-team/pic2.png" alt="" width="358" height="460">
                                         <div class="dlab-info-has">
                                             <ul class="dlab-social-icon bg-primary">
                                                 <li><a class="fab fa-facebook-f" href="https://www.facebook.com/" target="blank"></a></li>
@@ -74,7 +74,7 @@
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-6 dlab-team-1 right">
                                 <div class="dlab-box m-b30 team-skew ">
-                                    <div class="dlab-media"> <img src="assets/images/our-team/pic3.png" alt="" width="358" height="460">
+                                    <div class="dlab-media"> <img src="images/our-team/pic3.png" alt="" width="358" height="460">
                                         <div class="dlab-info-has">
                                             <ul class="dlab-social-icon bg-primary">
                                                 <li><a class="fab fa-facebook-f" href="https://www.facebook.com/" target="blank"></a></li>

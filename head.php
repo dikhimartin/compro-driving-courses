@@ -8,7 +8,7 @@
 	<meta name="description" content="" />
 	<meta property="og:title" content="Bina Drives - We make driving A breeze" />
 	<meta property="og:description" content="" />
-	<meta property="og:image" content="assets/images/favicon.png" />
+	<meta property="og:image" content="images/favicon.png" />
 	<meta name="format-detection" content="telephone=no">
 
 	<!-- FAVICONS ICON -->
