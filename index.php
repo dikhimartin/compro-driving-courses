@@ -96,7 +96,7 @@
 				</div>
 				<div class="swiper-pagination style2"></div>
 				<div class="bottom-aside">
-					<a href="#" class="btn-discover">
+					<a href="javascript:void(0)" class="btn-discover">
 						<span>Tentang Kami</span>
 						<i class="fas fa-long-arrow-alt-right"></i>
 					</a>
@@ -182,16 +182,16 @@
                     <div class="row">
                         <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                             <div class="icon-bx-wraper center">
-                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-reload"></i></a> </div>
+                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="javascript:void(0)" class="icon-cell"><i class="ti-reload"></i></a> </div>
                                 <div class="icon-content">
                                     <h5 class="dlab-tilte text-uppercase">Terpercaya</h5>
-                                    <p>Hingga saat ini BINA Driving Courses sudah mengajarkan ribuan siswa kursus diseluruh Magelang dan Jawa tengah. Kami menjadi salah satu kursus mengemudi yang terpercaya.</p>
+                                    <p>Hingga saat ini BINA Driving Courses sudah mengajarkan ribuan siswa kursus diseluruh Karesidenan Surakarta dan Jawa tengah. Kami menjadi salah satu kursus mengemudi yang terpercaya.</p>
                                 </div>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                             <div class="icon-bx-wraper center">
-                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-car"></i></a> </div>
+                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="javascript:void(0)" class="icon-cell"><i class="ti-car"></i></a> </div>
                                 <div class="icon-content">
                                     <h5 class="dlab-tilte text-uppercase">Harga Relatif Murah</h5>
                                     <p>Mengajarkan kursus mengemudi dengan baik dan benar sesuai dengan peraturan dan perundang-undangan lalu lintas dengan biaya yang terjangkau dan murah adalah tujuan kami.</p>
@@ -200,7 +200,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                             <div class="icon-bx-wraper center">
-                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-thumb-up"></i></a> </div>
+                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="javascript:void(0)" class="icon-cell"><i class="ti-thumb-up"></i></a> </div>
                                 <div class="icon-content">
                                     <h5 class="dlab-tilte text-uppercase">Pelayanan Terbaik</h5>
                                     <p>Staff dan Instruktur kami memiliki sertifikat kompetensi dibidangnya sehingga selalu bekerja dengan sepenuh hati untuk bisa mengajarkan anda mengemudi dengan baik dan benar.</p>
@@ -209,7 +209,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                             <div class="icon-bx-wraper center">
-                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-cup"></i></a> </div>
+                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="javascript:void(0)" class="icon-cell"><i class="ti-cup"></i></a> </div>
                                 <div class="icon-content">
                                     <h5 class="dlab-tilte text-uppercase">Jadwal Belajar Flexible</h5>
                                     <p>Jangan khawatir apabila anda mempunyai jadwal yang padat, disini anda bisa menentukan hari dan jam Kursus sesuai kebutuhan anda.</p>
@@ -218,7 +218,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                             <div class="icon-bx-wraper center">
-                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-settings"></i></a> </div>
+                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="javascript:void(0)" class="icon-cell"><i class="ti-settings"></i></a> </div>
                                 <div class="icon-content">
                                     <h5 class="dlab-tilte text-uppercase">Maintenance Rutin</h5>
                                     <p>Demi Mengutamakan keselamatan, Kami selalu menjaga kondisi mobil secara berkala dengan baik agar tidak mengurangi kenyaman anda dalam belajar.</p>
@@ -227,7 +227,7 @@
                         </div>
                         <div class="col-lg-4 col-md-6 col-sm-6 m-b30">
                             <div class="icon-bx-wraper center">
-                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="#" class="icon-cell"><i class="ti-pie-chart"></i></a> </div>
+                                <div class="icon-bx-sm radius bg-primary m-b20"> <a href="javascript:void(0)" class="icon-cell"><i class="ti-pie-chart"></i></a> </div>
                                 <div class="icon-content">
                                         <h5 class="dlab-tilte text-uppercase">Terakreditasi</h5>
                                     <p>Satu-satunya Lembaga Pelatihan Mengemudi di Kota Surakarta yang terakreditasi oleh LA-LPK.</p>

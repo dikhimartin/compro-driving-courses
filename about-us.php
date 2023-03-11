@@ -43,8 +43,8 @@
                                     Sudah teruji memiliki instruktur yang handal dan berpengalaman di bidangnya.                                
                                 </p>
 								<p class="m-b50">
-                                    Didirikan pada tahun 2012, BINA <strong>Drive</strong> Mengemudi menjadi salah satu kursus mengemudi di Indonesia. 
-                                    telah mengajar puluhan ribu orang hingga mahir menyetir. Hal ini menjadikan BINA <strong>Drive</strong> Mengemudi sebagai 
+                                    Didirikan pada tahun 2012, BINA <strong>Drive</strong>  menjadi salah satu kursus mengemudi di Indonesia. 
+                                    telah mengajar puluhan ribu orang hingga mahir menyetir. Hal ini menjadikan BINA <strong>Drive</strong>  sebagai 
                                     salah satu lembaga kursus mengemudi terpercaya di Indonesia. 
                                     Memiliki setidaknya 3 counter penerimaan siswa yang tersebar di wilayah karesidenan Surakarta.
                                 </p>

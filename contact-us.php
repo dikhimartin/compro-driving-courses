@@ -83,21 +83,21 @@
                                 <p>Jika Anda memiliki pertanyaan, gunakan detail kontak berikut.</p>
                                 <ul class="no-margin">
                                     <li class="icon-bx-wraper left m-b30">
-                                        <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="ti-location-pin"></i></a> </div>
+                                        <div class="icon-bx-xs bg-primary"> <a href="javascript:void(0)" class="icon-cell"><i class="ti-location-pin"></i></a> </div>
                                         <div class="icon-content">
                                             <h6 class="text-uppercase m-tb0 dlab-tilte">Alamat:</h6>
                                             <p>demo address #8901 Lorem ipsum, Surakarta</p>
                                         </div>
                                     </li>
                                     <li class="icon-bx-wraper left  m-b30">
-                                        <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="ti-email"></i></a> </div>
+                                        <div class="icon-bx-xs bg-primary"> <a href="javascript:void(0)" class="icon-cell"><i class="ti-email"></i></a> </div>
                                         <div class="icon-content">
                                             <h6 class="text-uppercase m-tb0 dlab-tilte">Email:</h6>
                                             <p>info@binadrivingcourses.com</p>
                                         </div>
                                     </li>
                                     <li class="icon-bx-wraper left">
-                                        <div class="icon-bx-xs bg-primary"> <a href="#" class="icon-cell"><i class="ti-mobile"></i></a> </div>
+                                        <div class="icon-bx-xs bg-primary"> <a href="javascript:void(0)" class="icon-cell"><i class="ti-mobile"></i></a> </div>
                                         <div class="icon-content">
                                             <h6 class="text-uppercase m-tb0 dlab-tilte">PHONE</h6>
                                             <p>0800-123456 (24/7 Support Line)</p>
@@ -119,7 +119,7 @@
                     <div class="row m-b30">
                         <div class="col-lg-12">
                         <h2>Lokasi Kami</h2>
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d227748.3825624477!2d75.65046970649679!3d26.88544791796718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396c4adf4c57e281%3A0xce1c63a0cf22e09!2sJaipur%2C+Rajasthan!5e0!3m2!1sen!2sin!4v1500819483219" style="border:0; width:100%; height:400px;" allowfullscreen></iframe>
+                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63282.31436199311!2d110.74705291743433!3d-7.559203139905645!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e7a16627ad11ab1%3A0xe7fe4e0454bc3095!2sSurakarta%2C%20Surakarta%20City%2C%20Central%20Java!5e0!3m2!1sen!2sid!4v1678518917161!5m2!1sen!2sid" style="border:0; width:100%; height:400px;" allowfullscreen"></iframe>
                         </div>
                     </div>
                 </div>
