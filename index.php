@@ -29,7 +29,7 @@
 					</div>
                     <!-- Desktop Slider -->
 					<div class="swiper-slide d-none d-sm-block">
-						<div class="vehicle-box style2" style="background-image: url(assets/images/background/bg13.png);">
+						<div class="vehicle-box style2" style="background-image: url(assets/images/background/bg11.jpg);">
 							<div class="left-info">
 								<div class="top-info">
 									<h2 class="title" data-swiper-parallax="-500">BINA</h2>
@@ -54,7 +54,7 @@
 								</div> -->
 							</div>
 							<div class="vehicle-img">
-								<img src="assets/images/company-profile/slider/Slider1.png" alt="" data-swiper-parallax="-700">
+								<!-- <img src="assets/images/company-profile/slider/Slider1.png" alt="" data-swiper-parallax="-700"> -->
 							</div>
 							<div class="right-info" data-swiper-parallax="-500">
 								<h2 class="title">Kursus Mengemudi</h2>
@@ -62,7 +62,8 @@
 						</div>
 					</div>
 					<div class="swiper-slide d-none d-sm-block">
-						<div class="vehicle-box style2" style="background-image: url(assets/images/background/bg13.png);">
+						<div class="vehicle-box style2" style="background-image: url(assets/images/background/bg11.jpg);">
+						<!-- <div class="vehicle-box style2" style="background-image: url(assets/images/background/bg13.png );"> -->
 							<div class="left-info">
 								<div class="top-info">
 									<h2 class="title" data-swiper-parallax="-500">Kursus</h2>
@@ -86,7 +87,7 @@
 								</div> -->
 							</div>
 							<div class="vehicle-img">
-								<img src="assets/images/company-profile/slider/Slider1.png" alt="" data-swiper-parallax="-700">
+								<!-- <img src="assets/images/company-profile/slider/Slider1.png" alt="" data-swiper-parallax="-700"> -->
 							</div>
 							<div class="right-info" data-swiper-parallax="-500">
 								<h2 class="title">Kursus Mengemudi</h2>
@@ -255,9 +256,9 @@
 									<p>" Kursus Mengemudi dengan legalitas dan perijinan lengkap. Instruktur sabar dan kompeten serta bersertifikat. Kursus yang berijin dan tersertifikasi. "</p>
 								</div>
 								<div class="testimonial-detail clearfix bg-primary text-white">
-									<h4 class="testimonial-name m-tb0">Septiansah</h4>
+									<h4 class="testimonial-name m-tb0">Bambang Suwarno</h4>
 									<span class="testimonial-position">Guru</span>
-									<div class="testimonial-pic radius"><img src="assets/images/testimonials/pic1.jpg" alt="" width="100" height="100"></div>
+									<div class="testimonial-pic radius"><img src="assets/images/company-profile/testimonials/users-2.png" alt="" width="100" height="100"></div>
 								</div>
 							</div>
 						</div>
@@ -267,9 +268,9 @@
 									<p>" Pelayanan sangat memuaskan, instruktur juga sabar dalam mendampingi,rekomended buat yang mau belajar. "</p>
 								</div>
 								<div class="testimonial-detail clearfix bg-primary text-white">
-									<h4 class="testimonial-name m-tb0">Dewi Ana</h4>
+									<h4 class="testimonial-name m-tb0">Daniswara Maulana</h4>
 									<span class="testimonial-position">Student</span>
-									<div class="testimonial-pic radius"><img src="assets/images/testimonials/pic2.jpg" alt="" width="100" height="100"></div>
+									<div class="testimonial-pic radius"><img src="assets/images/company-profile/testimonials/users-3.png" alt="" width="100" height="100"></div>
 								</div>
 							</div>
 						</div>
@@ -281,7 +282,7 @@
 								<div class="testimonial-detail clearfix bg-primary text-white">
 									<h4 class="testimonial-name m-tb0">Rina Pramana</h4>
 									<span class="testimonial-position">Ibu Rumah Tangga</span>
-									<div class="testimonial-pic radius"><img src="assets/images/testimonials/pic2.jpg" alt="" width="100" height="100"></div>
+									<div class="testimonial-pic radius"><img src="assets/images/company-profile/testimonials/users-1.png" alt="" width="100" height="100"></div>
 								</div>
 							</div>
 						</div>
