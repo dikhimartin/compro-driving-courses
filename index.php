@@ -255,8 +255,8 @@
 									<p>" Kursus Mengemudi dengan legalitas dan perijinan lengkap. Instruktur sabar dan kompeten serta bersertifikat. Kursus yang berijin dan tersertifikasi. "</p>
 								</div>
 								<div class="testimonial-detail clearfix bg-primary text-white">
-									<h4 class="testimonial-name m-tb0">Indah Nur Septi</h4>
-									<span class="testimonial-position">Student</span>
+									<h4 class="testimonial-name m-tb0">Septiansah</h4>
+									<span class="testimonial-position">Guru</span>
 									<div class="testimonial-pic radius"><img src="assets/images/testimonials/pic1.jpg" alt="" width="100" height="100"></div>
 								</div>
 							</div>
