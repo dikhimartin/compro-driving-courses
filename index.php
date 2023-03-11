@@ -14,33 +14,18 @@
 				<div class="swiper-wrapper">
                     <!-- Mobile Slider -->
 					<div class="swiper-slide d-block d-sm-none">
-						<div class="vehicle-box style2" style="background-image: url(assets/images/background/bg11.jpg);">
-							<div class="left-info">
-								<div class="top-info">
-								<h2 class="title mb-3" data-swiper-parallax="-500">BINA</h2>
-									<h3 class="main-title" data-swiper-parallax="-400">Driving</h3>
-									<h3 class="main-title" data-swiper-parallax="-400">Courses</h3>
-								</div>
-							</div>
-							<div class="right-info" data-swiper-parallax="-500">
-								<h2 class="title">Kursus Mengemudi</h2>
-							</div>
-						</div>
-					</div>
-                    <!-- Desktop Slider -->
-					<div class="swiper-slide d-none d-sm-block">
-						<div class="vehicle-box style2" style="background-image: url(assets/images/background/bg11.jpg);">
+						<div class="vehicle-box style2" style="background-image: url(assets/images/company-profile/slider/slider-mobile.png);">
 							<div class="left-info">
 								<div class="top-info">
 									<h2 class="title" data-swiper-parallax="-500">BINA</h2>
 									<h3 class="main-title" data-swiper-parallax="-400">Driving</h3>
 									<h3 class="main-title" data-swiper-parallax="-400">Courses</h3>
 								</div>
-								<!-- <div class="bottom-info">
+								<div class="bottom-info">
 									<ul class="vehicle-services">
 										<li data-swiper-parallax="-400">
 											<h3>Top speed</h3>
-											<h4>306 km/h</h4>
+											<h4>50 km/h</h4>
 										</li>
 										<li data-swiper-parallax="-300">
 											<h3>width</h3>
@@ -51,29 +36,49 @@
 											<h4>4519 mm</h4>
 										</li>
 									</ul>
-								</div> -->
-							</div>
-							<div class="vehicle-img">
-								<!-- <img src="assets/images/company-profile/slider/Slider1.png" alt="" data-swiper-parallax="-700"> -->
-							</div>
-							<div class="right-info" data-swiper-parallax="-500">
-								<h2 class="title">Kursus Mengemudi</h2>
+								</div>
 							</div>
 						</div>
 					</div>
 					<div class="swiper-slide d-none d-sm-block">
-						<div class="vehicle-box style2" style="background-image: url(assets/images/background/bg11.jpg);">
-						<!-- <div class="vehicle-box style2" style="background-image: url(assets/images/background/bg13.png );"> -->
+						<div class="vehicle-box style2" style="background-image: url(assets/images/company-profile/slider/slider-2.jpg);">
+							<div class="left-info">
+								<div class="top-info">
+									<h2 class="title" data-swiper-parallax="-500">BINA</h2>
+									<h3 class="main-title" data-swiper-parallax="-400">Driving</h3>
+									<h3 class="main-title" data-swiper-parallax="-400">Courses</h3>
+								</div>
+								<div class="bottom-info">
+									<ul class="vehicle-services">
+										<li data-swiper-parallax="-400">
+											<h3>Top speed</h3>
+											<h4>50 km/h</h4>
+										</li>
+										<li data-swiper-parallax="-300">
+											<h3>width</h3>
+											<h4>1852 mm</h4>
+										</li>
+										<li data-swiper-parallax="-200">
+											<h3>length</h3>
+											<h4>4519 mm</h4>
+										</li>
+									</ul>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="swiper-slide d-none d-sm-block">
+						<div class="vehicle-box style2" style="background-image: url(assets/images/company-profile/slider/slider-3.jpg);">
 							<div class="left-info">
 								<div class="top-info">
 									<h2 class="title" data-swiper-parallax="-500">Kursus</h2>
 									<h3 class="main-title" data-swiper-parallax="-400">Mengemudi</h3>
 								</div>
-								<!-- <div class="bottom-info">
+								<div class="bottom-info">
 									<ul class="vehicle-services">
 										<li data-swiper-parallax="-400">
 											<h3>Top speed</h3>
-											<h4>306 km/h</h4>
+											<h4>50 km/h</h4>
 										</li>
 										<li data-swiper-parallax="-300">
 											<h3>width</h3>
@@ -84,30 +89,17 @@
 											<h4>4519 mm</h4>
 										</li>
 									</ul>
-								</div> -->
-							</div>
-							<div class="vehicle-img">
-								<!-- <img src="assets/images/company-profile/slider/Slider1.png" alt="" data-swiper-parallax="-700"> -->
-							</div>
-							<div class="right-info" data-swiper-parallax="-500">
-								<h2 class="title">Kursus Mengemudi</h2>
+								</div>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="swiper-pagination style2"></div>
 				<div class="bottom-aside">
-					<a href="javascript:void(0)" class="btn-discover">
+					<a href="about-us.php" class="btn-discover">
 						<span>Tentang Kami</span>
 						<i class="fas fa-long-arrow-alt-right"></i>
 					</a>
-					<div class="slide-social">
-						<ul>
-							<li><a href="https://www.facebook.com/" target="blank">Facebook</a></li>
-							<li><a href="https://www.linkedin.com/" target="blank">linkedin</a></li>
-							<li><a href="https://www.twitter.com/" target="blank">Twitter</a></li>
-						</ul>
-					</div>
 				</div>
 			</div>
         </div>
