@@ -12,23 +12,23 @@ class PagesController extends Controller
     }
 
     public function AboutUs(){
-        return view('welcome');
+        return view('aboutus');
     }
 
     public function OurTeam(){
-        return view('welcome');
+        return view('ourteam');
     }
 
     public function Package(){
-        return view('welcome');
+        return view('package');
     }
     
     public function Gallery(){
-        return view('welcome');
+        return view('gallery');
     }
 
     public function ContactUs(){
-        return view('welcome');
+        return view('contactus');
     }
 
 }

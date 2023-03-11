@@ -69,5 +69,8 @@
         <script src="{{URL::asset("assets/js/dz.carousel.min.js")}}"></script><!-- SORTCODE FUCTIONS  -->
         <script src="{{URL::asset("assets/js/dz.ajax.js")}}"></script><!-- CONTACT JS -->
         <script src="{{URL::asset("assets/js/swiper.js")}}"></script>
+            
+        @yield('vendor_js')
+
     </body>
 </html>

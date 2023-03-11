@@ -6,7 +6,7 @@
             <div class="container-fluid">
                 <!-- website logo -->
                 <div class="logo-header logo-ac mostion">
-                    <a href="index.php">
+                    <a href="{{ url('/') }}">
                         <img src="assets/images/logo-bina-drive.png" alt="">
                     </a>
                 </div>
@@ -18,16 +18,16 @@
                 </button>
                 <div class="header-nav navbar-collapse collapse justify-content-end navbar" id="navbarNavDropdown">
                     <ul class="nav navbar-nav nav-style">
-                        <li> <a href="index.php">Beranda</a></li>
+                        <li> <a href="{{ url('/') }}">Beranda</a></li>
                         <li> <a href="javascript:void(0)">Tentang Kami<i class="fas fa-chevron-down"></i></a>
                             <ul class="sub-menu">
-                                <li><a href="about-us.php">Perusahaan</a></li>
-                                <li><a href="our-team.php">Team Kami</a></li>
+                                <li><a href="{{ url('/about-us') }}">Perusahaan</a></li>
+                                <li><a href="{{ url('/our-team') }}">Team Kami</a></li>
                             </ul>
                         </li>
-                        <li> <a href="course-price.php">Paket Kursus</a></li>
-                        <li> <a href="gallery.php">Galeri</a></li>
-                        <li> <a href="contact-us.php">Kontak Kami</a></li>
+                        <li> <a href="{{ url('/package') }}">Paket Kursus</a></li>
+                        <li> <a href="{{ url('/gallery') }}">Galeri</a></li>
+                        <li> <a href="{{ url('/contact-us') }}">Kontak Kami</a></li>
                     </ul>
                 </div>
             </div>
