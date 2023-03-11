@@ -90,7 +90,7 @@
                 </div>
                 <div class="swiper-pagination style2"></div>
                 <div class="bottom-aside">
-                    <a href="about-us.php" class="btn-discover">
+                    <a href="{{ url('/about-us') }}" class="btn-discover">
                         <span>Tentang Kami</span>
                         <i class="fas fa-long-arrow-alt-right"></i>
                     </a>

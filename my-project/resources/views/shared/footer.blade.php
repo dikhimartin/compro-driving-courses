@@ -108,9 +108,9 @@
                 <span> Design With <i class="ti-heart text-primary heart"></i> By<a href="https://dikhimartin.vercel.app" target="_blank">Dikhi Martin</a> </span> 
             </div>
             <div class="col-lg-4 col-md-4 text-right"> 
-                <a href="about-us.php"> Tentang Kami</a>
+                <a href="{{ url('/about-us') }}"> Tentang Kami</a>
                 <a href="javascript:void(0)"> FAQs</a>
-                <a href="contact-us.php"> Kontak Kami</a>
+                <a href="{{ url('/contact-us') }}"> Kontak Kami</a>
             </div>
         </div>
     </div>
