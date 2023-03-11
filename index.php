@@ -23,7 +23,7 @@
 								</div>
 							</div>
 							<div class="right-info" data-swiper-parallax="-500">
-								<h2 class="title">classic</h2>
+								<h2 class="title">Kursus Mengemudi</h2>
 							</div>
 						</div>
 					</div>
@@ -54,10 +54,10 @@
 								</div> -->
 							</div>
 							<div class="vehicle-img">
-								<img src="assets/images/car.png" alt="" data-swiper-parallax="-700">
+								<img src="assets/images/company-profile/slider/Slider1.png" alt="" data-swiper-parallax="-700">
 							</div>
 							<div class="right-info" data-swiper-parallax="-500">
-								<h2 class="title">classic</h2>
+								<h2 class="title">Kursus Mengemudi</h2>
 							</div>
 						</div>
 					</div>
@@ -86,10 +86,10 @@
 								</div> -->
 							</div>
 							<div class="vehicle-img">
-								<img src="assets/images/car.png" alt="" data-swiper-parallax="-700">
+								<img src="assets/images/company-profile/slider/Slider1.png" alt="" data-swiper-parallax="-700">
 							</div>
 							<div class="right-info" data-swiper-parallax="-500">
-								<h2 class="title">classic</h2>
+								<h2 class="title">Kursus Mengemudi</h2>
 							</div>
 						</div>
 					</div>
