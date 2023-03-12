@@ -110,7 +110,7 @@ Dari kriteria tersebut dapat di definisikan beberapa menu yang ada dalam website
 - Jalankan framework Laravel 10 menggunakan command 
 
   ```shell
-  - docker-compose up -d
+  docker-compose up -d
   ```
 
 - buka browser pada URL  http://localhost:8000
