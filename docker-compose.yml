@@ -29,7 +29,7 @@ services:
       bina_drive:
         aliases:
           - mysql
-  cms:
+  myapp:
     build: images/php
     volumes:
       - ./my-project:/var/www/html
@@ -48,5 +48,5 @@ services:
     networks:
       bina_drive:
         aliases:
-          - cms
+          - myapp
             
