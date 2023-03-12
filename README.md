@@ -1,9 +1,10 @@
 <p align="left">
-    <a href="https://binadrive.dikhimartin.tech/" target="_blank"><img src="https://raw.githubusercontent.com/dikhimartin/compro-driving-courses/main/my-project/public/assets/images/logo-bina-drive-white.png" width="400" alt="Bina Drive Logo">
+    <a href="https://binadrive.dikhimartin.tech/" target="_blank"><img src="https://raw.githubusercontent.com/dikhimartin/compro-driving-courses/main/my-project/public/assets/images/logo-bina-drive-black.png" width="400" alt="Bina Drive Logo">
     </a>
 </p>
-
 ------
+
+
 
 # Company profile - Driving Courses
 
