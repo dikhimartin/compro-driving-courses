@@ -32,7 +32,10 @@ source : 20220629154838_TP1-W2-S3-R1
 ```
 
 
+
 Dari kriteria tersebut dapat di definisikan beberapa menu yang ada dalam website, antara lain :
+
+![](https://raw.githubusercontent.com/dikhimartin/compro-driving-courses/main/my-project/public/assets/images/layout/home-page.png)
 
 - **Beranda**
   - Berisi penjelasan tentang perusahaan tersebut dan layanan-layanan yang di berikan. Selain itu ada juga yang berisi tentang kontak, alamat dan jam kerja tempat perusahaan tersebut. Terkadang juga memuat informasi resmi dari perusahaan tersebut yang perlu diketahui oleh masyarakat umum.
