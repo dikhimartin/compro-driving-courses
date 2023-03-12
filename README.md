@@ -2,6 +2,7 @@
     <a href="https://binadrive.dikhimartin.tech/" target="_blank"><img src="https://raw.githubusercontent.com/dikhimartin/compro-driving-courses/main/my-project/public/assets/images/logo-bina-drive-black.png" width="400" alt="Bina Drive Logo">
     </a>
 </p>
+
 Demo : https://binadrive.dikhimartin.tech
 
 ------
@@ -36,6 +37,7 @@ source : 20220629154838_TP1-W2-S3-R1
 ```
 
 
+
 Dari kriteria tersebut dapat di definisikan beberapa menu yang ada dalam website, antara lain :
 
 ![](https://raw.githubusercontent.com/dikhimartin/compro-driving-courses/main/my-project/public/assets/images/layout/home-page.png)
@@ -62,49 +64,50 @@ Dari kriteria tersebut dapat di definisikan beberapa menu yang ada dalam website
 
 - Docker Engine https://docs.docker.com/engine/install2. 
 - Docker Compose https://docs.docker.com/compose/install
-  
 
-**Proses Instalasi Laravel**
+**Proses Instalasi Laravel** :
 
 - Install Docker Engine & Docker Compose.
 
-- Tentukan Direktori project laravel, kemudian Buka terminal.
+- Cloning aplikasi source
 
-- Download file konfigurasi ```docker-compose.yml``` , menggunakan perintah **cURL Command** (tidak harus curl command, kamu bisa pakai banyak opsi lain yang support di terminal OS lain untuk transfer data dengan konektivitas URL).
-
-  ```shell 
-  curl -LO [https://raw.githubusercontent.com/bitnami/containers/main/bitnami/laravel/docker-compose.yml
+  ```shell
+  git clone https://github.com/dikhimartin/compro-driving-courses.git
   ```
 
+- Masuk ke aplikasi source
 
-  File docker-compose.yml
-
-  ```yml
-  version: '2'
-  
-  services:
-    mariadb:
-      image: docker.io/bitnami/mariadb:10.6
-      environment:
-        # ALLOW_EMPTY_PASSWORD is recommended only for development.
-        - ALLOW_EMPTY_PASSWORD=yes
-        - MARIADB_USER=bn_myapp
-        - MARIADB_DATABASE=bitnami_myapp
-    myapp:
-      image: docker.io/bitnami/laravel:10
-      ports:
-        - '8000:8000'
-      environment:
-        - DB_HOST=mariadb
-        - DB_PORT=3306
-        - DB_USERNAME=bn_myapp
-        - DB_DATABASE=bitnami_myapp
-      volumes:
-        - './my-project:/app'
-      depends_on:
-        - mariadb
+  ```shell
+  cd compro-driving-courses
   ```
 
-- Jalankan framework Laravel 10 menggunakan command docker-compose up -d
+- copy file environtment
+
+  ```shell
+  cp ./my-project/.env.example ./my-project/.env
+  ```
+
+- Build Dockerfile
+
+  ```shell
+  docker build -t myapp .
+  ```
+
+- Install Composer
+
+  ```she
+  docker-compose exec myapp /bin/bash
+  ```
+
+  ```shell
+  composer install
+  ```
+
+- Jalankan framework Laravel 10 menggunakan command 
+
+  ```shell
+  - docker-compose up -d
+  ```
 
 - buka browser pada URL  http://localhost:8000
+
