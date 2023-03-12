@@ -8,27 +8,33 @@ class PagesController extends Controller
 {
 
     public function Home(){
-        return view('home');
+        $page = "Beranda";
+        return view('home', compact("page"));
     }
-
+    
     public function AboutUs(){
-        return view('aboutus');
+        $page = "Tentang Kami";
+        return view('aboutus', compact("page"));
     }
-
+    
     public function OurTeam(){
-        return view('ourteam');
+        $page = "Team Kami";
+        return view('ourteam', compact("page"));
     }
-
+    
     public function Package(){
-        return view('package');
+        $page = "Paket Kursus";
+        return view('package', compact("page"));
     }
     
     public function Gallery(){
-        return view('gallery');
+        $page = "Galeri";
+        return view('gallery', compact("page"));
     }
-
+    
     public function ContactUs(){
-        return view('contactus');
+        $page = "Kontak Kami";
+        return view('contactus', compact("page"));
     }
 
 }

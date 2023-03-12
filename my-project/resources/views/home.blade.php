@@ -1,4 +1,6 @@
 @extends('layouts.app')
+@section('web_title', "We make driving a breeze")
+@section('description', "BINA Driving Courses adalah salah satu dari sekian banyak kursus mengemudi di Surakarta yang tetap eksis sampai sekarang")
 
 @section('content')
     <div class="page-content bg-white">	
@@ -11,7 +13,7 @@
                         <div class="vehicle-box style2" style="background-image: url(assets/images/company-profile/slider/slider-mobile.png);">
                             <div class="left-info">
                                 <div class="top-info">
-                                    <h2 class="title" data-swiper-parallax="-500">BINA</h2>
+                                    <h2 class="title mb-3" data-swiper-parallax="-500">BINA</h2>
                                     <h3 class="main-title" data-swiper-parallax="-400">Driving</h3>
                                     <h3 class="main-title" data-swiper-parallax="-400">Courses</h3>
                                 </div>

@@ -1,4 +1,6 @@
 @extends('layouts.app')
+@section('web_title', $page)
+@section('navActive', "package")
 
 @section('content')
     <!-- Content -->
@@ -7,16 +9,17 @@
         <div class="dlab-bnr-inr overlay-black-middle" style="background-image:url(assets/images/background/bg1.jpg );">
             <div class="container">
                 <div class="dlab-bnr-inr-entry">
-                    <h1 class="text-white">Paket Kursus</h1>
+                    <h1 class="text-white">{{ $page }}</h1>
                 </div>
             </div>
         </div>
+
         <!-- Breadcrumb row -->
         <div class="breadcrumb-row">
             <div class="container">
                 <ul class="list-inline">
                     <li><a href="{{ url('/') }}">Beranda</a></li>
-                    <li>Paket Kursus</li>
+                    <li>{{ $page }}</li>
                 </ul>
             </div>
         </div>

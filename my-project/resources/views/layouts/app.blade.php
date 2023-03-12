@@ -7,18 +7,18 @@
         <meta name="keywords" content="" />
         <meta name="author" content="" />
         <meta name="robots" content="" />
-        <meta name="description" content="" />
-        <meta property="og:title" content="Bina Drives - We make driving A breeze" />
-        <meta property="og:description" content="" />
-        <meta property="og:image" content="images/favicon.png" />
+        <meta name="description" content="@yield('meta_description')"/>
+        <meta property="og:title" content="Bina Drive - @yield('web_title')" />
+        <meta property="og:description" content="@yield('description')"/>
+        <meta property="og:image" content="{{URL::asset("assets/images/logo-bina-drive-black.png")}}" />
         <meta name="format-detection" content="telephone=no">
 
         <!-- FAVICONS ICON -->
-        <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
-        <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png" />
+        <link rel="icon" href="{{URL::asset("assets/images/favicon.ico")}}" type="image/x-icon" />
+        <link rel="shortcut icon" type="image/x-icon" href="{{URL::asset("assets/images/favicon.png")}}" />
         
         <!-- PAGE TITLE HERE -->
-        <title>Bina Driving Courses</title>
+        <title>Bina Drive - @yield('web_title')</title>
         
         <!-- MOBILE SPECIFIC -->
         <meta name="viewport" content="width=device-width, initial-scale=1">
