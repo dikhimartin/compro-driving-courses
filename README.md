@@ -96,11 +96,15 @@ Dari kriteria tersebut dapat di definisikan beberapa menu yang ada dalam website
 - Install Composer
 
   ```she
-  docker-compose exec myapp /bin/bash
+  docker run --rm -it -v $(pwd)/my-project:/app myapp bash
   ```
 
   ```shell
   composer install
+  ```
+
+  ```shell
+  exit
   ```
 
 - Jalankan framework Laravel 10 menggunakan command 
@@ -110,4 +114,3 @@ Dari kriteria tersebut dapat di definisikan beberapa menu yang ada dalam website
   ```
 
 - buka browser pada URL  http://localhost:8000
-
