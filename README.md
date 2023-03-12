@@ -8,6 +8,8 @@
 
 # Company profile - Driving Courses
 
+## Penjelasan 
+
 Saya membuat project ini, karena untuk melengkapi satu tugas individu di Universitas. Jadi saya diminta untuk membuat suatu website company profile dengan kriteria sebagai berikut :
 
 ```
@@ -32,7 +34,6 @@ source : 20220629154838_TP1-W2-S3-R1
 ```
 
 
-
 Dari kriteria tersebut dapat di definisikan beberapa menu yang ada dalam website, antara lain :
 
 ![](https://raw.githubusercontent.com/dikhimartin/compro-driving-courses/main/my-project/public/assets/images/layout/home-page.png)
@@ -50,3 +51,9 @@ Dari kriteria tersebut dapat di definisikan beberapa menu yang ada dalam website
   - Untuk menampilkan atau menyampaikan sebuah informasi  berupa gambar.
 - **Kontak**
   - Berisikan informasi mengenai alamat email, nomor telepon, alamat perusahaan (peta lokasi), tautan media sosial, dan sebagainya. Dengan menyertakan semua informasi kontak, pengunjung pun dapat lebih percaya dengan semua konten yang Anda bagikan, baik itu informasi maupun penawaran.
+
+
+
+## Cara menjalankan aplikasi
+
+Lorem ipsum dolor sit amet
